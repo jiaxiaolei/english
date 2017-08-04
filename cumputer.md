@@ -20,3 +20,21 @@ In this section of the tutorial, we'll clean up our code so that it is closer to
 您应该考虑整理代码和插入注解的时间，从而保证您的评估正确而合理。
 You will take into account the time it takes you to clean up your code and insert comments so that your estimates will be accurate and reasonable. 
 ```
+
+
+
+
+有限状态机（Finite-state machine, FSM），又称有限状态自动机，简称状态机，是表示有限个状态以及在这些状态之间的转移和动作等行为的数学模型。
+----------
+```
+finite	英[ˈfaɪnaɪt]
+美[ˈfaɪˌnaɪt]
+adj.	有限的; [语] 限定的; [数] 有穷的，有限的;
+n.	有限性; 有限的事物;
+
+[例句]Only a finite number of situations can arise
+只有有限的几种情况可能会发生。
+
+finite 只是在度量上是有限的
+limited还可以作为有限制的，比如某些方法政策。
+```
