@@ -53,3 +53,50 @@ Peel away the sticky paper.
 将贴纸撕掉。
 ```
 
+replica set 副本集
+-----
+```
+replica
+英 [ˈreplɪkə]   美 [ˈrɛplɪkə]  
+n.
+复制品
+
+It was a replica gun, for display only. 
+那是一把仿真枪，仅供展示。
+```
+
+burdern 负债
+---
+```
+burden
+英 [ˈbɜ:dn]   美 [ˈbɜ:rdn]  
+n.
+负担，包袱;责任，义务;载货量;（诗歌，发言等的）重点
+vt.
+使烦恼，劳累;向（车，船等）上装货
+
+
+
+The developing countries bear the burden of an enormous external debt 
+发展中国家背负着巨额外债。
+
+
+We decided not to burden him with the news. 
+我们决定不拿这个消息去烦他。
+```
+
+
+debt
+英 [det]   美 [dɛt]  
+n.
+债务;负债情况;义务;罪，过失
+
+
+Three years later, he is still paying off his debts 
+都3年了，他仍在偿还债务。
+
+
+
+
+
+
