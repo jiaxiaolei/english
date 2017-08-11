@@ -38,3 +38,18 @@ n.	有限性; 有限的事物;
 finite 只是在度量上是有限的
 limited还可以作为有限制的，比如某些方法政策。
 ```
+
+session sticky 
+-----
+```
+sticky
+英 [ˈstɪki]   美 [ˈstɪki]  
+adj.
+粘性的;热湿的，闷热的;极不愉快的;不动的
+
+
+
+Peel away the sticky paper. 
+将贴纸撕掉。
+```
+
