@@ -85,7 +85,9 @@ We decided not to burden him with the news.
 我们决定不拿这个消息去烦他。
 ```
 
-
+debt 债务
+-----
+```
 debt
 英 [det]   美 [dɛt]  
 n.
@@ -95,7 +97,7 @@ n.
 Three years later, he is still paying off his debts 
 都3年了，他仍在偿还债务。
 
-
+```
 
 
 
