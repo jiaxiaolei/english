@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [cumputer](cumputer.md)
-* [SUMMAR](summarymd.md)
+* [SUMMAR](SUMMARY.md)
 
