@@ -98,6 +98,23 @@ Three years later, he is still paying off his debts
 都3年了，他仍在偿还债务。
 
 ```
+extraneous 不相干的
+----
+```
+extraneous
+英 [ɪkˈstreɪniəs]   美 [ɪkˈstreniəs]  
+adj.
+无关的;外来的;外部的;不相干的
+
+
+We ought not to bring in extraneous matters in trying to find a basis for a settlement 
+我们努力寻求解决问题的基础时，不应该牵扯进无关的事情。
+《柯林斯高阶英汉双解学习词典》
+
+I can choose to ignore these extraneous thoughts or certainly choose not to act on them. 
+我可以选择无视这些无关的想法，当然也可以选择不按这些想法行事。
+```
+
 
 
 
