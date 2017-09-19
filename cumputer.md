@@ -116,6 +116,69 @@ I can choose to ignore these extraneous thoughts or certainly choose not to act 
 ```
 
 
+perspective 观点，看法
+-------------
+```
+perspective
+英 [pəˈspektɪv]   美 [pərˈspektɪv]  
+n.
+透镜，望远镜;观点，看法;远景，景色;洞察力
+adj.
+（按照）透视画法的;透视的
+
+
+
+He says the death of his father 18 months ago has given him a new perspective on life 
+他说18个月前父亲的去世让他对人生有了新的认识。
+《柯林斯高阶英汉双解学习词典》
+
+Remember to keep things in perspective 
+记住要客观看待事物。
+
+```
+
+
+essentially 本质上
+-------------
+```
+essentially
+英 [ɪˈsenʃəli]   美 [ɪˈsenʃəli]  
+adv.
+本质上，根本上;本来;“essential”的派生
+
+
+Essentially, the West has only two options 
+基本上，西方只有两种选择。
+```
+
+
+potentially 潜在地
+-------------
+
+```
+
+potentially
+英 [pə'tenʃəlɪ]   美 [pəˈtɛnʃəlɪ]  
+adv.
+潜在地;可能地;<古>强有力地;权威地
+
+
+
+
+The situation is unstable and potentially dangerous. 
+情况不稳定，可能有危险。
+
+
+
+The organization helped defuse potentially violent situations 
+该组织帮忙化解了可能出现的暴力局面。
+
+````
+
+
+
+
+
 
 
 
