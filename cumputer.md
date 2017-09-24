@@ -228,3 +228,30 @@ When he was tuning his violin, one of the strings snapped.
 
 ```
 
+mentor 导师，指导
+----------
+```
+
+mentor
+英 [ˈmentɔ:(r)]   美 ['mentɔ:r]  
+n.
+（无经验之人的）有经验可信赖的顾问
+vt.
+做…的良师；指导
+
+
+
+He had mentored scores of younger doctors. 
+他指导过许多更年轻的医生。
+《柯林斯高阶英汉双解学习词典》
+
+Eventually, he was excommunicated along with his mentor 
+最后，他和他的导师一起被开除教籍。
+《柯林斯高阶英汉双解学习词典》
+
+The men stepped forward to kiss the hand of their mentor 
+这些男子走上前去轻吻他们导师的手。
+《柯林斯高阶英汉双解学习词典》
+
+
+```
