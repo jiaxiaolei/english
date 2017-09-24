@@ -175,8 +175,41 @@ The organization helped defuse potentially violent situations
 
 ````
 
+tune 曲调
+-------
+```
+tune
+英 [tju:n]   美 [tu:n]  
+n.
+曲调，曲子;和谐，调谐;语调;心情
+vt.
+调整;使和谐，使一致;调整（频率）;为…调音
+vi.
+协调;[无线]调谐
 
 
+I don't know the title but I recognize the tune.
+我不知道曲名，但听得出这曲调。
+
+
+
+None of them could sign in tune.
+他们中没有一个人能唱的和调。
+
+
+
+The piano is out of tune.
+钢琴弹得走调了。
+
+
+These proposals are perfectly in tune with our own thoughts on the subject.
+这些建议与我们在这个问题上的想法完全一致。
+
+
+The President is out of tune with public opinion.
+总统与公众舆论大唱反调。
+
+```
 
 
 
