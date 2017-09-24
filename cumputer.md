@@ -211,7 +211,20 @@ The President is out of tune with public opinion.
 
 ```
 
+tuning 调音
+------
+```
+tuning
+英 ['tju:nɪŋ]   美 ['tju:nɪŋ]  
+n.
+调谐，调整，调音
+v.
+调整;调音( tune的现在分词 );（给收音机、电视等）调谐;使协调
 
 
 
+When he was tuning his violin, one of the strings snapped. 
+他给小提琴调弦的时候，一根弦断了。
+
+```
 
