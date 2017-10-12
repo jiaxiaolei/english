@@ -278,3 +278,29 @@ When his parents were killed in an accident, he became an orphan.
 当他的父母在事故中丧生之后，他便成了孤儿。
 
 ```
+
+mutable  易变的，性情不定的
+--------- 
+```
+mutable
+英 [ˈmju:təbl]   美 [ˈmjutəbəl]  
+adj.
+易变的，性情不定的
+
+
+After importing authorization and mutable attribute, the usage control authorization model is characterized with a new feature. 
+通过引入授权和可变属性，使用控制授权模型具有了新的特性。
+www.joca.cn
+
+One approach to this issue is to minimize mutable state in the database.
+此问题的一种解决方法是要最大限度地减少数据库中的可变状态。
+www.ibm.com
+
+And this all can be done with no mutable state in the client code. 
+在客户代码中，这些都可以在不使用可变状态的情况下就能做到。
+www.ibm.com
+
+There's a loophole when synchronizing on a mutable field, however, which can break down mutual exclusion. 
+然而，易变域的同步中会有一个漏洞，它可能破坏互斥。
+
+```
