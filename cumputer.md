@@ -255,3 +255,26 @@ The men stepped forward to kiss the hand of their mentor
 
 
 ```
+
+orphan 孤儿
+------
+
+```
+orphan
+英 [ˈɔ:fn]   美 [ˈɔ:rfn]  
+n.
+孤儿
+vt.
+使成为孤儿
+adj.
+孤儿的;无双亲的
+
+
+I'm an orphan and pretty much grew up on my own. 
+我是个孤儿，差不多是靠自己长大的。
+
+
+When his parents were killed in an accident, he became an orphan. 
+当他的父母在事故中丧生之后，他便成了孤儿。
+
+```
