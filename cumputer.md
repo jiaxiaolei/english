@@ -304,3 +304,33 @@ There's a loophole when synchronizing on a mutable field, however, which can bre
 然而，易变域的同步中会有一个漏洞，它可能破坏互斥。
 
 ```
+
+immutable  不可改变的
+----------- 
+
+```
+immutable
+英 [ɪˈmju:təbl]   美 [ɪˈmjutəbəl]  
+adj.
+不可改变的
+
+Nothing in the world is immutable. 
+世界没有一成不变的东西。
+
+
+In this article, I introduced the Python string, which is an immutable sequence of characters. 
+在本文中，我介绍了Python字符串，它是一种不变的字符序列。
+www.ibm.com
+
+Using this style of code is a strong visual indicator that it's an immutable class. 
+这种代码风格的使用从视觉上给出了一种强烈的指示：该类是一个不可变类。
+www.ibm.com
+
+That article demonstrated the tuple, which is an immutable sequence.
+这篇文章演示了tuple，这是一个不可变的序列。
+www.ibm.com
+
+If you have an immutable object, you must set whatever state it will contain in the constructor. 
+如果您有一个不可变对象，则必须要在构造函数中设置该对象将包含的任何状态。
+
+```
