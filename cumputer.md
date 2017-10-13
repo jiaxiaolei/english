@@ -334,3 +334,13 @@ If you have an immutable object, you must set whatever state it will contain in 
 如果您有一个不可变对象，则必须要在构造函数中设置该对象将包含的任何状态。
 
 ```
+property  资产
+--------
+```
+property
+英 [ˈprɒpəti]   美 [ˈprɑ:pərti]  
+n.
+特性，属性;财产，地产;[戏]道具;所有权
+
+
+```
