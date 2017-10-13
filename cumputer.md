@@ -382,4 +382,24 @@ Intensive negotiations between the main parties preceded the vote
 
 ```
 
+nuking  以核武器攻击，，以核武器摧毁
+--------------
+```
+nuking
+v.
+以核武器攻击，，以核武器摧毁( nuke的现在分词 )
+
+
+N-COUNT 核武器 A nuke is a nuclear weapon.
+They have nukes, and if they're sufficiently pushed, they'll use them.
+他们拥有核武器，如果逼得太紧，他们就有可能会使用。
+
+VERB 对…进行核打击 If one country nukes another, it attacks it using nuclear weapons.
+He wanted to nuke the area.
+他想用核弹轰掉那个地区。
+
+
+
+
+```
 
