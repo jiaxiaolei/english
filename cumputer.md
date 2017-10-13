@@ -398,7 +398,37 @@ VERB 对…进行核打击 If one country nukes another, it attacks it using nuc
 He wanted to nuke the area.
 他想用核弹轰掉那个地区。
 
+```
 
+
+intensive  加强的，强烈的
+------------ 
+```
+
+intensive
+
+data-intensive
+数据密集型;数据密集;密集型;资料密集
+
+intensive
+英 [ɪnˈtensɪv]   美 [ɪnˈtɛnsɪv]  
+adj.
+加强的，强烈的;[农]精耕细作的;[语]加强语意的;（农业方法）集约的
+n.
+加强器;[语]强义词，强调成份
+
+
+
+There we received several weeks of intensive training. 
+在那里我们受了几星期的集中训练。
+
+
+They secure their degrees by slogging through an intensive 11-month course
+他们苦学了11个月的强化课程，拿到了学位。
+
+
+Each counsellor undergoes an intensive training programme before beginning work.
+每个辅导员在上岗前都要接受密集培训。
 
 
 ```
