@@ -344,3 +344,42 @@ n.
 
 
 ```
+
+intensive  加强的，强烈的;
+-----------
+
+```
+intensive
+英 [ɪnˈtensɪv]   美 [ɪnˈtɛnsɪv]  
+adj.
+加强的，强烈的;[农]精耕细作的;[语]加强语意的;（农业方法）集约的
+n.
+加强器;[语]强义词，强调成份
+
+
+
+Each counsellor undergoes an intensive training programme before beginning work. 
+每个辅导员在上岗前都要接受密集培训。
+《柯林斯高阶英汉双解学习词典》
+
+Elsewhere large areas have been drained and levelled for industry or intensive farming. 
+在别处，大片区域被抽干了水或铲平了地，以作为工业或集约化农业用地。
+《柯林斯高阶英汉双解学习词典》
+
+There we received several weeks of intensive training. 
+在那里我们受了几星期的集中训练。
+《汉英大词典》
+
+They secure their degrees by slogging through an intensive 11-month course 
+他们苦学了11个月的强化课程，拿到了学位。
+《柯林斯高阶英汉双解学习词典》
+
+Intensive negotiations between the main parties preceded the vote 
+主要政党在选举前进行了集中的谈判。
+《柯林斯高阶英汉双解学习词典》
+
+
+
+```
+
+
