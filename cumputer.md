@@ -433,3 +433,25 @@ Each counsellor undergoes an intensive training programme before beginning work.
 
 ```
 
+recruiter  招聘人员，征兵人员
+-----
+```
+recruiter
+英 [rɪ'kru:tə(r)]   美 [rɪˈkrutɚ]  
+n.
+招聘人员，征兵人员
+
+
+If you don't know the recruiter's name, simply list the company name and address. 
+如果你不知道招聘员工的名字，简单的写上公司名字和地址吧。
+www.7781.org
+
+Then, list the recruiter's title and the company name and address. 
+然后列出招聘员工的头衔、公司名字和地址。
+www.fwjia.com
+
+Here are four things you shouldn't ask of a recruiter. 
+以下四件事在你和招聘职员打交道中应该要禁止的。
+
+
+```
