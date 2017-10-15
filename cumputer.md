@@ -455,3 +455,33 @@ Here are four things you shouldn't ask of a recruiter.
 
 
 ```
+
+
+
+
+Gratuitous ARP也称为免费ARP，无故ARP
+
+------------
+```
+gratuitous
+英 [grəˈtju:ɪtəs]   美 [grəˈtu:ɪtəs]  
+adj.
+免费的，无偿的;无必要的;无故的，无理由的
+
+
+
+There's too much crime and gratuitous violence on TV. 
+电视里充斥着犯罪和无端的暴力。
+《柯林斯高阶英汉双解学习词典》
+以下例句来源于网络，仅供参考
+
+A lot of viewers complained that there was too much gratuitous sex and violence in the film. 
+许多观众抱怨电影里充斥着过多不必要的性和暴力。
+provided by jukuu
+
+There's too much gratuitous violence in the film. 
+电影中有太多无端的暴力。
+
+```
+
+
