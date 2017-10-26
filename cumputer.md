@@ -485,3 +485,29 @@ There's too much gratuitous violence in the film.
 ```
 
 
+mandatory 强制的
+----
+```
+
+mandatory
+英 [ˈmændətəri]   美 [ˈmændətɔ:ri]  
+adj.
+强制的;命令的;受委托的
+n.
+受托者
+
+
+Attendance is mandatory. 
+务必参加。
+《柯林斯高阶英汉双解学习词典》
+
+In a case of premeditated murder a life sentence is mandatory.
+蓄意杀人依法要判无期徒刑。
+《柯林斯高阶英汉双解学习词典》
+
+It's mandatory for citizens to pay taxes. 
+公民有征缴税款的义务。
+
+
+```
+
