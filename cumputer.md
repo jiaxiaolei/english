@@ -511,3 +511,92 @@ It's mandatory for citizens to pay taxes.
 
 ```
 
+diverged  
+----
+```
+diverged
+v.
+分歧;偏离;分道扬镳;分开( diverge的过去式和过去分词 )
+
+
+His interests increasingly diverged from those of his colleagues 
+他的兴趣和同事们越来越不一样了。
+《柯林斯高阶英汉双解学习词典》
+2
+Needless to say, theory and practice sometimes diverged. 
+不用说，理论和实践有时候并不相符。
+《柯林斯高阶英汉双解学习词典》
+3
+The tug was seaward of the Hakai Passage on a course that diverged from the Calvert Island coastline. 
+托船驶离卡尔弗特岛海岸朝哈凯航道驶去。
+《柯林斯高阶英汉双解学习词典》
+4
+Their paths diverged at the fork in the road. 
+他们在岔路口分道而行。
+
+
+
+
+# Your branch and 'origin/master' have diverged,
+# and have 178 and 2 different commits each, respectively.
+#   (use "git pull" to merge the remote branch into yours)
+
+
+
+```
+
+diverge   偏离，背离
+------------------
+```
+diverge
+英 [daɪˈvɜ:dʒ]   美 [daɪˈvɜ:rdʒ]  
+vi.
+分歧;分开，叉开;偏离，背离;[数]发散，无极限
+vt.
+使发散;使偏离
+
+
+When the aims of the partners begin to diverge, there's trouble. 
+当合作伙伴的目标开始出现分歧时，麻烦就产生了。
+《柯林斯高阶英汉双解学习词典》
+
+Needless to say, theory and practice sometimes diverged. 
+不用说，理论和实践有时候并不相符。
+```
+
+
+
+```
+
+commitment
+英 [kəˈmɪtmənt]   美 [kəˈmɪtmənt]  
+n.
+承诺，许诺;委任，委托;致力，献身;承担义务
+
+
+
+
+I've got a lot of commitments 
+我承担了很多责任。
+《柯林斯高阶英汉双解学习词典》
+
+We made a commitment to keep working together 
+我们承诺继续合作。
+《柯林斯高阶英汉双解学习词典》
+
+Work commitments forced her to uproot herself and her son from Reykjavik. 
+她的工作迫使她和儿子从雷克雅未克搬走。
+《柯林斯高阶英汉双解学习词典》
+
+They made a commitment to peace. 
+他们承诺要维护和平。
+《柯林斯高阶英汉双解学习词典》
+
+He reaffirmed his commitment to the country's economic reform programme 
+他重申了实施国家经济改革计划的决心。
+
+
+
+```
+
+
