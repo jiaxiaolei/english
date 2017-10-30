@@ -600,3 +600,24 @@ He reaffirmed his commitment to the country's economic reform programme
 ```
 
 
+Pythonista  Python 狂热者
+---------------  
+
+```
+Pythonista
+
+python 狂热者...
+
+
+-ista:
+
+a person who is very enthusiastic about sth. 
+
+
+
+
+Of course, as a long-time Pythonista, I find mechanize more robust, which seems to follow the general pattern of the two languages. 
+当然，作为长期的Python支持者，我认为mechanize更健壮，它看上去似乎继承了两种语言的通用模式。
+
+
+```
