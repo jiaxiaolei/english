@@ -621,3 +621,28 @@ Of course, as a long-time Pythonista, I find mechanize more robust, which seems 
 
 
 ```
+
+foundation  基础, 地基；
+----------  
+```
+foundation
+英 [faʊnˈdeɪʃn]   美 [faʊnˈdeʃən]  
+n.
+基础;地基;粉底;基金（会）
+
+
+
+Best friends are the foundation of my life 
+好朋友是我生命的支柱。
+《柯林斯高阶英汉双解学习词典》
+
+The allegations were without foundation 
+这些指控没有根据。
+《柯林斯高阶英汉双解学习词典》
+
+The issue strikes at the very foundation of our community 
+这个问题严重影响了我们社会的基本根基。
+
+
+
+```
