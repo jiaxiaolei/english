@@ -643,6 +643,46 @@ The allegations were without foundation
 The issue strikes at the very foundation of our community 
 这个问题严重影响了我们社会的基本根基。
 
+```
 
+-------
+```
+advisor
+英 [əd'vaɪzə]   美 [ædˈvaɪzɚ]  
+n.
+顾问，劝告者;<美>（指导大学新生学科问题等的）指导教授
+
+
+那现在你是我的经济顾问了。
+So now you're my economic adviser. 
+provided by jukuu
+
+我做了好几个月你夫人的经济顾问。
+For months I have been acting as your wife's financial adviser. 
+www.dictall.com
+
+这次的经历预示了我作为经济顾问理事会主席在2003年的回归。
+This experience presaged my later return as CEA chairman in2003. 
+dj.iciba.com
+
+但是经济顾问委员会主任一职需要通过一致同意。
+But confirmation is required for the director of the Council of Economic Advisers.
+
+几位专家将作为技术顾问参加。
+Several experts will participate as technical advisers. 
+百度翻译例句库
+以下例句来源于网络，仅供参考
+
+我们会带一位技术顾问来协助我们。
+We will bring a technical advisor to assist us. 
+www.pccenter.com.tw
+
+你就有一个运行小组，有他们的技术顾问，安全技术顾问。
+You have an operations group with their shift technical advisors, safety technical advisors. 
+open.163.com
+
+这位教授被聘请为技术顾问。
+The professor is engaged as a technical advisor. 
+www.dictall.com
 
 ```
