@@ -717,3 +717,36 @@ In the first day I go to the school I find my counselor to change my grade.
 
 ```
 
+
+
+affinity   密切关系，姻亲关系
+-----------------------------
+
+```
+
+affinity
+英 [əˈfɪnəti]   美 [əˈfɪnɪti]  
+n.
+密切关系，姻亲关系;（男女之间的）吸引力，吸引人的异性;类同;类似，近似
+
+
+
+He has a close affinity with the landscape he knew when he was growing up 
+他对这片从小就了解的土地有着一种归属感。
+《柯林斯高阶英汉双解学习词典》
+
+The two plots share certain obvious affinities. 
+这两个情节有某种明显的相似。
+《柯林斯高阶英汉双解学习词典》
+
+This substance has an affinity for water. 
+这物质和水有亲和力。
+
+
+
+
+anti-affinity
+
+反亲和
+
+```
