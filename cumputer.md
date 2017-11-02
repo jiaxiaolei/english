@@ -686,3 +686,34 @@ The professor is engaged as a technical advisor.
 www.dictall.com
 
 ```
+
+counselor  顾问;<律>律师;（使馆等的）参赞;（协助学生解决问题的）指导老师
+-------------------------------------------------------------------
+```
+counselor
+英 ['kaʊnsələ]   美 [ˈkaʊnsəlɚ, -slɚ]  
+n.
+顾问;<律>律师;（使馆等的）参赞;（协助学生解决问题的）指导老师
+
+
+
+
+Your first step should be to talk to a teacher or school counselor 
+你第一步应该是去找老师或学校辅导员谈谈。
+《柯林斯高阶英汉双解学习词典》
+
+He handled his responsibilities as a counselor in an intelligent and caring fashion.
+作为一名顾问他精明能干、热心周到。
+《柯林斯高阶英汉双解学习词典》
+以下例句来源于网络，仅供参考
+
+So I made an appointment with the college guidance counselor. 
+所以我和大学顾问约好了。
+provided by jukuu
+
+In the first day I go to the school I find my counselor to change my grade. 
+在我第一天去学校，我找到我的辅导员改变了我的等级。
+
+
+```
+
