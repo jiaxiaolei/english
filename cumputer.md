@@ -750,3 +750,36 @@ anti-affinity
 反亲和
 
 ```
+
+
+allocate  分配，分派
+-------------------
+```
+allocate
+英 [ˈæləkeɪt]   美 [ˈæləˌket]  
+vt.
+分配，分派;把…拨给
+
+
+
+Tickets are limited and will be allocated to those who apply first 
+票数有限，先申请者先得。
+《柯林斯高阶英汉双解学习词典》
+
+Our plan is to allocate one member of staff to handle appointments. 
+我们的计划是分派一位职员处理预约事宜。
+《柯林斯高阶英汉双解学习词典》
+
+You must allocate the money carefully. 
+你们必须谨慎地分配钱。
+百度翻译例句库
+
+Allocate the spare steel to the farm tools factory. 
+把节余的钢材划拨给农具厂。
+百度翻译例句库
+以下例句来源于网络，仅供参考
+
+To allocate and schedule the use of buffers. 
+分配和计划缓冲器的使用。
+
+```
