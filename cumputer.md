@@ -783,3 +783,31 @@ To allocate and schedule the use of buffers.
 分配和计划缓冲器的使用。
 
 ```
+
+
+inventory  财产目录，财产目录的编制
+---------------------------------
+```
+inventory
+英 [ˈɪnvəntri]   美 [ˈɪnvəntɔ:ri]  
+n.
+清查;存货清单;财产目录，财产目录的编制;存货总值
+vt.
+盘存;编制…的目录;开列…的清单;总结
+
+
+You need to define a host inventory.
+
+
+Before starting, he made an inventory of everything that was to stay. 
+开始之前，他把所有要留下的东西列了详细的清单。
+《柯林斯高阶英汉双解学习词典》
+
+Some stores inventory their stock once a week. 
+有些商店每周清点存货一次。
+《汉英大词典》
+
+They are just happy to sell their inventory any which way they can. 
+只要存货能脱手，无论采取什么方式他们都愿意。
+
+```
