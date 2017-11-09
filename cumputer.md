@@ -811,3 +811,24 @@ They are just happy to sell their inventory any which way they can.
 只要存货能脱手，无论采取什么方式他们都愿意。
 
 ```
+
+epic  史诗;叙事诗;史诗般的作品
+--------
+```
+epic
+英 [ˈepɪk]   美 [ˈɛpɪk]  
+n.
+史诗;叙事诗;史诗般的作品
+adj.
+史诗般的，叙事诗的;宏大的，壮丽的，英雄的;壮丽的
+
+
+Their epic fight is the subject of a new film 
+他们史诗般的战斗是一部新电影的主题。
+《柯林斯高阶英汉双解学习词典》
+
+The themes get tangled in Mr. Mahfouz's epic storytelling 
+马赫福兹先生讲述的故事过于宏大，主题有些混乱了。
+
+
+```
