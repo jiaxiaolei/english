@@ -832,3 +832,53 @@ The themes get tangled in Mr. Mahfouz's epic storytelling
 
 
 ```
+
+negotiable 可谈判的;可协商的;
+------------
+```
+negotiable
+英 [nɪˈgəʊʃiəbl]   美 [nɪˈgoʊʃiəbl]  
+adj.
+可谈判的;可协商的;可商量的;（票据）可兑现的
+
+
+He warned that his economic programme for the country was not negotiable 
+他提醒说，他为这个国家制定的经济计划没有商量的余地。
+《柯林斯高阶英汉双解学习词典》
+
+The bonds may no longer be negotiable. 
+这些债券或许不能再行转让了。
+《柯林斯高阶英汉双解学习词典》
+
+Parts of the road had been washed away by streams, but it was negotiable. 
+部分路面已被河水冲毁，但仍可以通行。
+《柯林斯高阶英汉双解学习词典》
+
+The Manor is for sale at a negotiable price. 
+该庄园现在出售，价格可议。
+
+```
+
+
+purchaser  买方，购买者
+---------------
+```
+purchaser
+英 [ˈpɜ:tʃəsə(r)]   美 [ˈpɜ:rtʃəsə(r)]  
+n.
+买方，购买者
+
+
+
+
+We want to encourage them to group together to act as a big purchaser.
+我们想鼓励他们组成一个大的采购团。
+《柯林斯高阶英汉双解学习词典》
+
+
+The territory was too expensive for any one purchaser, so the two couples parcelled out a picnic lunch. 
+这地方什么都贵，因此，两对夫妇分享一顿野餐。
+
+
+
+```
