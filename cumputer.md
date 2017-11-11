@@ -880,5 +880,32 @@ The territory was too expensive for any one purchaser, so the two couples parcel
 这地方什么都贵，因此，两对夫妇分享一顿野餐。
 
 
+```
+
+allocate　 分派；分配；分配额
+--------------
+```
+allocate　 　
+英 ['æləkeɪt] 　 　  美 ['æləkeɪt] 　 　
+vt. 分派；分配；分配额
+
+
+
+The system was unable to allocate a new data object.
+系统无法分派新的数据对象。
+
+
+Allocate rations for a week - long campingtrip.
+分配一星期外出野营的定额。
+
+
+
+
+用作动词 (v.)
+～+名词
+allocate shares 分配股份 ～+副词
+allocate carefully  谨慎地分配 allocate properly 妥当分配 ～+介词
+allocate among  在…间分配 allocate for  拨款给… allocate sb to sth 分派某人到… allocate sth to sb 分配某物给某人
+
 
 ```
