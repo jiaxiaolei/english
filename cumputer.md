@@ -909,3 +909,21 @@ allocate among  在…间分配 allocate for  拨款给… allocate sb to sth �
 
 
 ```
+
+cast　 演员阵容；投掷；
+-----------
+```
+cast　 
+英 [kɑːst] 　 　  美 [kæst] 　 　
+v. 掷；抛；投；铸造；指定演员；加起来；投射(目光)；投(票)；预测
+n. 演员阵容；投掷；[医]固定用敷料
+
+
+
+The play succeeded thanks to the wonderful performance of all the cast.
+由于演员们的精彩表演,这部戏获得了成功。
+
+The cast of the line is crucial to fly fishing.
+如何投掷鱼线对飞钓来说很关键。
+
+```
