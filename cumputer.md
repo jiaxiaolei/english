@@ -927,3 +927,23 @@ The cast of the line is crucial to fly fishing.
 如何投掷鱼线对飞钓来说很关键。
 
 ```
+
+transparency 透明度;透明;透明性;
+------------
+```
+transparency
+英 [trænsˈpærənsi]  美 [trænsˈpɛrənsi, -ˈpær-]  
+n.
+透明度;透明;透明性;透明的东西
+
+
+
+But do not underestimate the power of transparency.
+但不要低估透明度的力量。
+
+
+They were shocked by the transparency of his lies.
+他们感到震惊的是他竟睁着眼睛说瞎话。
+
+
+```
