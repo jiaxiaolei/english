@@ -947,3 +947,33 @@ They were shocked by the transparency of his lies.
 
 
 ```
+
+
+hold 拿着，保持，“观望”
+```
+HOLD　 
+英 [həʊld] 　 　  美 [hoʊld] 　 　
+v. 拿着；控制；容纳；握住；持有；保持；掌握；认为；举行
+n. 握住；控制；把握；立足点；延误；影响
+
+His hold on her arm tightened.
+他把她的胳膊抓得更紧了。
+
+Their forces had consolidated their hold on the area.
+他们的军队加强了对这一地区的控制。
+
+You have to get a good hold of this idea.
+你得好好把握这个观点。
+
+When you are climbing, you need to find a good hold to prevent you from falling.
+攀登时,你需要找一个好的立足点来避免摔落。
+
+There was an aeroplane hold again due to the heavy fog.
+由于大雾天气,飞机又一次延误了。
+
+He has a tremendous hold over his younger brother.
+他对他弟弟很有影响。
+
+
+
+```
