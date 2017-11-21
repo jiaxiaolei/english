@@ -949,7 +949,33 @@ They were shocked by the transparency of his lies.
 ```
 
 
+
+
+assess  评估，估算
+------
+```
+ASSESS　
+英 [ə'ses] 　 　  美 [ə'ses] 　 　
+v. 评定；评估；估算
+
+He can quickly assess a person's character.
+他能很快地评定出某人的品质。
+
+How do you assess your students?
+你如何评估学生们？
+
+We will assess the damages caused by the flood.
+我们将对洪灾造成的损失进行评估。
+
+She looked at the house and assessed its market value.
+她看了看房子并估算了其市场价值。
+
+```
+
+
+
 hold 拿着，保持，“观望”
+--------------------
 ```
 HOLD　 
 英 [həʊld] 　 　  美 [hoʊld] 　 　
@@ -974,6 +1000,5 @@ There was an aeroplane hold again due to the heavy fog.
 He has a tremendous hold over his younger brother.
 他对他弟弟很有影响。
 
-
-
 ```
+
