@@ -972,7 +972,37 @@ She looked at the house and assessed its market value.
 
 ```
 
+trial  尝试，试用
+-----------------
+```
+TRIAL　 核心词汇 　
+英 ['traɪəl] 　 　  美 ['traɪəl] 　 　
+n. 审讯；试验；试用；尝试；预赛或选拔赛；讨厌的事；惹麻烦的人
+v. 测试
 
+He went through hell during the trial.
+审讯期间他吃尽了苦头。
+
+The flier is flying a new-type jet plane on trial.
+飞行员正在驾驶一架新式喷气机作试验飞行。
+
+She agreed to employ me for a trial period.
+她同意试用我一段时间。
+
+Trial and error is the source of our knowledge.
+尝试和失败同是学识之源。
+
+They succeeded in the experiment on the fifteenth trial.
+他们在第十五次尝试时获得了成功。
+
+His blindness is a great trial to him.
+眼睛瞎对他来说是非常麻烦的事。
+
+The child was a trial to his parents.
+那孩子真让他父母烦得够呛。
+
+
+```
 
 hold 拿着，保持，“观望”
 --------------------
