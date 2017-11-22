@@ -948,7 +948,29 @@ They were shocked by the transparency of his lies.
 
 ```
 
+adopt　接受，采用
+--------------
+```
+adopt　 　
+英 [ə'dɒpt] 　 　  美 [ə'dɑːpt] 　 　
+v. 采用；收养；接受
 
+
+
+The schools must adopt new methods of teaching foreign languages.
+学校应采用新的外语教学法。
+
+She was left an orphan and a poor peasant woman adopted her.
+她成了孤儿，一位贫农妇女收养了她。
+
+To adopt the fruits of sin was to give countenance to it.
+收养罪恶的果实就等于纵容罪恶。
+
+We should adopt the consumers' suggestion.
+我们应该接受用户的建议。
+
+
+```
 
 
 assess  评估，估算
