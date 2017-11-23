@@ -1158,3 +1158,22 @@ As soon as he touched her she seemed to wince and stiffen.
 只消他碰到她，她便一阵畏缩，全身僵硬。
 
 ``
+
+
+deliver　递送；发表；
+-----------------
+```
+Deliver　
+英 [dɪ'lɪvə(r)] 　 　  美 [dɪ'lɪvər] 　 　
+v. 递送；发表（演讲）；交付；解救；生（孩子）；接生；履行；投掷
+
+
+
+The mailman delivers letters and parcels every morning.
+邮差每天早晨递送信件和包裹。
+
+
+He delivered a long prose.
+他发表了一篇冗长乏味的演讲。
+
+```
