@@ -1089,3 +1089,22 @@ Remove the five screws that secure the battery tray to the vehicle.
 The gate won't stay open, so we'll have to secure it to the post.
 大门不能一直开着,所以我们不得不将它固定在柱子上。
 ```
+
+intermediate  中间的
+---------------
+```
+intermediate 
+英 [ˌɪntə'miːdiət] 　 　  美 [ˌɪntər'miːdiət] 　 　
+adj. 中间的；中级的
+n. 中间体；调解人；媒介物
+vi. 调解；干涉
+
+
+
+What is the structure of this intermediate?
+这个中间产物的结构是怎样的?
+
+We need him as the intermediate in the negotiations.
+我们需要他做这次谈判的调解人。
+
+```
