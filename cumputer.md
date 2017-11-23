@@ -1108,3 +1108,29 @@ We need him as the intermediate in the negotiations.
 我们需要他做这次谈判的调解人。
 
 ```
+
+archive  档案，文档
+------------
+```
+archive　
+英 ['ɑːkaɪv] 　 　  美 ['ɑːrkaɪv] 　 　
+n. 档案；档案馆
+vt. 存档
+
+
+The multivolume archive was created successfully.
+成功创建多卷存档。
+
+The repository is the official archive of our work.
+库是我们的正式的档案。
+
+She went to the city archive this morning.
+她今天上午去了市档案馆。
+
+It's a good idea to archive your files once a week.
+一个星期对你的文件存档一次是个不错的主意。
+
+Getting archive from http://tarballs.openstack.org
+从http://tarballs.openstack.org 下载文件。
+
+```
