@@ -1134,3 +1134,27 @@ Getting archive from http://tarballs.openstack.org
 从http://tarballs.openstack.org 下载文件。
 
 ```
+
+wince　畏缩；战栗；退避
+-------------------
+```
+wince　 
+英 [wɪns] 　 　  美 [wɪns] 　 　
+n. 畏缩；（因痛苦或苦恼等)面部肌肉抽搐
+v. 畏缩；战栗；退避
+
+
+Mention branding and a wince passes around the table.
+一提及品牌推广，畏缩情绪就传遍了整张桌子。
+
+His smile soon modified to a wince.
+他的微笑很快就成了脸部肌肉的抽搐。
+
+用作动词  (v.)
+That statistic must surely make them wince.
+这样的统计数据必定会让他们退缩。
+
+As soon as he touched her she seemed to wince and stiffen.
+只消他碰到她，她便一阵畏缩，全身僵硬。
+
+``
