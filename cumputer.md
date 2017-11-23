@@ -1054,3 +1054,38 @@ He has a tremendous hold over his younger brother.
 
 ```
 
+
+secure　 安全
+------------
+```
+secure　
+英 [sɪ'kjʊə(r)] 　 　  美 [sə'kjʊr] 　 　
+adj. 安全的；牢靠的；稳妥的
+vt. 使安全；获得；固定
+
+
+If you are not sure it is secure, do not debug it.
+如果您不能确定它是安全的,请不要调试它。
+
+His place in history is now secure.
+他在历史上的地位现在已经稳固了。
+
+A climber needs secure footholds.
+攀登的人脚踩的地方要很牢固。
+
+
+Some measures are needed to secure the farmland against shift sand.
+需要采取措施使农田免遭流沙的侵袭。
+
+There is no magic wand to secure a just peace.
+要获得正义的和平并非易事。
+
+We must prepare our claim and send it to the insurance company to secure payment.
+我们得准备好索赔要求，并把它寄给保险公司以便获得赔偿。
+
+Remove the five screws that secure the battery tray to the vehicle.
+拆下固定电池架到车身的五个螺丝。
+
+The gate won't stay open, so we'll have to secure it to the post.
+大门不能一直开着,所以我们不得不将它固定在柱子上。
+```
