@@ -1212,5 +1212,22 @@ He has no mercury in him.
 他没有精神。
 
 
+dashboard  仪表盘
+-------------
+```
+dashboard　 
+
+英 ['dæʃbɔːd] 　 　  美 ['dæʃbɔːrd] 　 　
+n. (汽车上的)仪表盘
+
+
+I braced my arms against the dashboard.
+我把胳膊支在仪表盘上。
+
+
+A police dashboard camera caught the preteen out for a joyride.
+一个警用仪表盘摄影机记录下了这个未成年人飙车的过程。
+
+
 
 ```
