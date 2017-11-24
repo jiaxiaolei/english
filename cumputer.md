@@ -1189,3 +1189,28 @@ byobu　
 在Ubuntu中，他还是屏幕分享工具的一类...
 
 ```
+
+
+mercury 水银；水星；精神
+----------------
+```
+mercury
+
+英 ['mɜːkjəri] 　 美 ['mɜːrkjəri] 　 　
+n. 水银；（M~）水星；精神
+
+
+Mercury weighs more than water by about 14 times.
+水银比水重约十三倍。
+
+
+Mercury is too dry and poor in oxygen.
+水星上面过于干燥，并且缺乏氧气。
+
+
+He has no mercury in him.
+他没有精神。
+
+
+
+```
