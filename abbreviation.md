@@ -16,3 +16,15 @@ https://baike.baidu.com/item/CLI/2898851?fr=aladdin
 
 
 ```
+
+ 
+```
+
+RD 
+
+research and development
+指研发部
+
+
+
+```
