@@ -1231,3 +1231,23 @@ A police dashboard camera caught the preteen out for a joyride.
 
 
 ```
+
+hierarchical  层级，等级
+-----------
+```
+Hierarchical　 
+英 [ˌhaɪə'rɑːkɪkl] 　 　  美 [ˌhaɪə'rɑːrkɪkl] 　 　
+adj. 按等级划分的
+
+
+The federal judiciary is hierarchical.
+联邦司法体系是分等级的。
+
+All state judiciaries are hierarchical, like the federal system.
+各州的司法机构都象联邦体系一样分等级的。
+
+Congress is a collegial and not a hierarchical body.
+国会是一个学院式的机构，而不是一个等级制度的机构。
+
+
+```
