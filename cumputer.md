@@ -1251,3 +1251,26 @@ Congress is a collegial and not a hierarchical body.
 
 
 ```
+tenant 房客，租赁
+----------------
+```
+tenant
+英 ['tenənt] 　 　  美 ['tenənt] 　 　
+n. 房客；佃户；承租人；<律>占用者
+vt. 租赁；租借
+
+
+The tenant has not yet paid his rent.
+房客还没有交付租金。
+
+
+The desk was left by the previous tenant.
+这张桌子是前面房客留下的。
+
+I will tenant my building out during the summer vocation.
+我会在暑假期间把房子租出去。
+
+The house is tenanted by a politician.
+这所房屋由一位政客租住。
+
+```
