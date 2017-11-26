@@ -1274,3 +1274,27 @@ The house is tenanted by a politician.
 这所房屋由一位政客租住。
 
 ```
+
+sacrifice　  牺牲
+```
+sacrifice　 
+英 ['sækrɪfaɪs] 　 　  美 ['sækrɪfaɪs] 　 　
+n. 牺牲；祭品；供奉
+vt. 牺牲；亏本出售；供奉
+vi. 献祭；(棒球)作牺牲一击
+
+
+
+He gave his life as a sacrifice for his country.
+他为国牺牲了。
+
+She made a big sacrifice for her position today.
+她为今天的职位付出了很大的代价。
+
+You must not sacrifice studies for pleasure.
+你不能为享乐而牺牲学业。
+
+It's the company's policy to sacrifice short-term profits for the sake of long-term growth.
+为长期发展而牺牲短期利润是公司的方针。
+
+```
