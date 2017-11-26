@@ -1317,3 +1317,19 @@ Ant is the most popular animal in the world.
 
 
 ```
+tent  帐篷
+------------
+```
+tent　 
+英 [tent] 　 　  美 [tent] 　 　
+n. 帐篷
+v. 住帐篷；宿营
+
+They set up a tent near the seashore.
+他们在海滨附近搭起了一个帐篷。
+
+The wind caused the tent to collapse.
+风把帐篷吹塌了。
+
+
+```
