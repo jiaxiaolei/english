@@ -28,3 +28,11 @@ research and development
 
 
 ```
+
+OEM  定牌生产合作
+--------
+```
+
+OEM（Original Equipment Manufacturer）的基本含义是定牌生产合作，俗称“代工”。 OEM产品是为品牌厂商度身订造的，生产后也只能使用该品牌名称，绝对不能冠上生产者自己的名称再进行生产。
+
+```
