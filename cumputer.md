@@ -1298,3 +1298,22 @@ It's the company's policy to sacrifice short-term profits for the sake of long-t
 为长期发展而牺牲短期利润是公司的方针。
 
 ```
+
+ant   蚂蚁
+--------
+```
+ant　 　
+英 [ænt] 　 　  美 [ænt] 　 　
+n. 蚂蚁
+
+A dove heard the ant and flew over to help.
+一只鸽子听到蚂蚁的呼救声就飞过去救它。
+
+An ant will sacrifice himself for his friends.
+每只蚂蚁都愿意为了朋友牺牲自己.
+
+Ant is the most popular animal in the world.
+蚂蚁是世界上分布最广、数量最多的生物之一。
+
+
+```
