@@ -1380,3 +1380,25 @@ He dangled the bone in front of the puppy.
 
 
 ```
+
+constitution　 宪法；组织；体质；
+-----------------------
+```
+constitution　
+英 [ˌkɔnstɪ'tjuːʃən] 　 　  美 [ˌkɒnstə'tjuːʃən] 　 　
+n. 宪法；组织；体质；构成，组成，构造
+
+
+The President swore to uphold the constitution.
+总统宣誓维护宪法。
+
+The country's constitution embodies the ideals of freedom and equality.
+这个国家的宪法体现了自由和平等的理想。
+
+Hunger and disease had weakened his constitution.
+他饥饿与疾病交加，体质已削弱。
+
+He has a good constitution.
+他体质很好。
+
+```
