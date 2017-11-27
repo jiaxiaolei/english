@@ -1489,3 +1489,18 @@ I like my clothes to be simple but elegant.
 
 
 ```
+
+stakeholder 利益相关者
+----------------
+```
+stakeholder　
+英 ['steɪkhəʊldə(r)] 　 　  美 ['steɪkhoʊldər] 　 　
+n. 保管赌注的人；利益相关者
+
+What would be the drawbacks in managing stakeholder relationships?
+利益相关者关系管理有哪些困难？
+
+Every stakeholder in a society must contribute to the society' s success.
+社会中的每一位利益相关者都应该为了社会的成功而努力。
+
+```
