@@ -1362,3 +1362,21 @@ Do you assess historical vendor performance?
 您是否会查看供货商以往的表现?
 
 ```
+
+dangling 摇晃；悬垂；
+------------------
+```
+dangling　
+英 ['dæŋɡl] 　 　  美 ['dæŋɡl] 　 　
+v. 摇晃；悬垂；挂着；追求
+n. 摇摆；摇摆物
+
+
+The leaves dangled in the wind.
+树叶随风摇摆。
+
+He dangled the bone in front of the puppy.
+他晃动着骨头逗小狗。
+
+
+```
