@@ -1333,3 +1333,32 @@ The wind caused the tent to collapse.
 
 
 ```
+
+vendor   小贩；供货商
+--------------------
+```
+vendor
+英 ['vendə(r)] 　 　  美 ['vendər] 　 　
+n. 自动售货机；小贩；卖方；供货商
+=vender
+
+
+The vendor is out of order again.
+这台自动售货机又坏了。
+
+I bought an apple from the fruit vendor.
+我从水果贩那买了一个苹果。
+
+A few militant members of the crowd attacked the vendor.
+人群中几个好斗的人攻击了那个小贩。
+
+The vendor signs a contract with the purchaser.
+卖方须与买方签订契约。
+
+He must inform the vendor immediately.
+他必须立即通知卖方。
+
+Do you assess historical vendor performance?
+您是否会查看供货商以往的表现?
+
+```
