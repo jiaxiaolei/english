@@ -1445,3 +1445,22 @@ Cannot specify tables to truncate for this template.
 
 
 ```
+
+numeric 数字的；数值的；
+-----------------
+```
+numeric　
+
+英 [njuː'merɪk] 　 　  美 [nuː'merɪk] 　 　
+adj. 数字的；数值的
+n. 数；数字
+
+
+The numeric results prove the reasonability and validity. 
+数值结果验证了其合理性和有效性。
+
+
+This procedure will sort numeric and string data.
+这个程序将排序数字和串数据。
+
+```
