@@ -1464,3 +1464,28 @@ This procedure will sort numeric and string data.
 这个程序将排序数字和串数据。
 
 ```
+
+elegant  优雅的；雅致的
+----------------------
+```
+elegant　
+英 ['elɪɡənt] 　 　  美 ['elɪɡənt] 　 　
+adj. 优雅的；雅致的
+
+He strolled about, looking very debonair in his elegant new suit.
+他穿了一身讲究的新衣服逛来逛去，显得颇为惬意。
+
+He proudly promenaded his elegant companion in the park.
+他得意地领著他那标致的伴侣遛公园。
+
+We all wonder how you always look so young and beautiful and elegant!
+我们都很想知道,为什么你总是那么优雅年轻。
+
+The lady wears an elegant dark suit.
+那位女士穿着雅致的深色套装。
+
+I like my clothes to be simple but elegant.
+我喜欢朴素但漂亮雅致的衣服。
+
+
+```
