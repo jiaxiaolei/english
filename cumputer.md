@@ -1426,3 +1426,22 @@ Constitution is prior to all other laws.
 宪法比其他一切法律都重要。
 
 ```
+
+truncate  缩短；截断；
+---------------------
+```
+truncate　 
+英 [trʌŋ'keɪt] 　 　  美 ['trʌŋkeɪt] 　 　
+vt. 切去一端；缩短；截棱成平面
+adj. 切去了头；缩短了的；截形的
+
+
+You still need to back up and truncate the logs periodically as I discuss later.
+您仍然需要周期性地备份或截断日志，我将在稍后进行讨论。
+
+
+Cannot specify tables to truncate for this template. 
+不能为该模板指定要截断的表。
+
+
+```
