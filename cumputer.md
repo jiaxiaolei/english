@@ -1402,3 +1402,27 @@ He has a good constitution.
 他体质很好。
 
 ```
+
+prior 优先的；在前的；
+---------------------
+```
+prior　
+英 ['praɪə(r)] 　 　  美 ['praɪər] 　 　
+adj. 优先的；在前的；更重要的
+adv. 居先；在前
+
+
+prior to  在…之前 
+prior to any discussion of the matter  在讨论这事之前 
+prior to sb's arrival 在某人到来之前 
+prior to World War II 在第二次世界大战前
+
+
+This task is prior to all others.
+这项任务比所有其他任务都重要。
+
+
+Constitution is prior to all other laws.
+宪法比其他一切法律都重要。
+
+```
