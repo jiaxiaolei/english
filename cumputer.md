@@ -1504,3 +1504,29 @@ Every stakeholder in a society must contribute to the society' s success.
 社会中的每一位利益相关者都应该为了社会的成功而努力。
 
 ```
+
+summit  最高级的;政府首脑的
+----------
+```
+summit
+英 [ˈsʌmɪt]   美 [ˈsʌmɪt]  
+n.
+顶点;高层会议;最高阶层
+adj.
+最高级的;政府首脑的
+
+
+Snow gleamed on the summit of Mount Simon. 
+西蒙山山顶白雪皑皑。
+
+
+The Group of Seven major industrial countries concluded its annual summit meeting today. 
+由主要工业国家组成的七国集团今天结束了其年度峰会。
+
+All their attempts at reaching the summit failed. 
+他们攀登顶峰的一切尝试都失败了。
+
+The president stopped off in Poland on his way to Munich for the economic summit. 
+总统在赴慕尼黑参加经济峰会的途中在波兰作了短暂停留。
+
+```
