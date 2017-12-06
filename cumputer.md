@@ -1530,3 +1530,27 @@ The president stopped off in Poland on his way to Munich for the economic summit
 总统在赴慕尼黑参加经济峰会的途中在波兰作了短暂停留。
 
 ```
+
+founder  创始人;建立者;翻砂工;蹄叶炎
+----------------------------------
+```
+founder
+英 [ˈfaʊndə(r)]   美 [ˈfaʊndɚ]  
+vi.
+失败;倒塌;沉没：沉到水下;摔倒：跌倒
+vt.
+破坏;使摔倒;使沉没
+n.
+创始人;建立者;翻砂工;蹄叶炎
+
+He was the founder and guiding spirit of New York's Shakespeare Festival. 
+他是纽约莎士比亚戏剧节的创始人及领导者。
+
+Three ships foundered in heavy seas. 
+三艘船在波涛汹涌的海面上沉没了。
+
+He was one of the founders of the university's medical faculty.
+他是该大学医学院的创建人之一。
+
+
+```
