@@ -1554,3 +1554,45 @@ He was one of the founders of the university's medical faculty.
 
 
 ```
+
+subordinate 下级的;级别或职位较低的;次要的;附属的
+------------
+```
+ordinate　 
+英 ['ɔːdɪnət] 　 　  美 ['ɔːrdɪnət] 　 　
+n. 纵线；纵坐标
+adj. 按行排列的
+
+
+
+
+subordinate
+英 [səˈbɔ:dɪnət]   美 [səˈbɔ:rdɪnət]  
+adj.
+下级的;级别或职位较低的;次要的;附属的
+n.
+部属;部下，下级
+vt.
+使…居下位，使在次级;使服从;使从属
+
+
+Haig tended not to seek guidance from subordinates 
+黑格不愿向下属请教。
+《柯林斯高阶英汉双解学习词典》
+
+Sixty of his subordinate officers followed his example 
+他的60个下级官员都以他为榜样。
+《柯林斯高阶英汉双解学习词典》
+
+It was an art in which words were subordinate to images. 
+这是一种形象胜于语言的艺术。
+《柯林斯高阶英汉双解学习词典》
+
+He was both willing and able to subordinate all else to this aim. 
+为了这个目标他愿意并能够把其他一切都放在次要的位置。
+《柯林斯高阶英汉双解学习词典》
+
+Nearly all her subordinates adored her. 
+几乎所有的下属都崇拜她。
+
+```
