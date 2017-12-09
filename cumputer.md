@@ -1596,3 +1596,37 @@ Nearly all her subordinates adored her.
 几乎所有的下属都崇拜她。
 
 ```
+
+brand 商标，牌子;烙印;〈比喻〉污名，耻辱;燃烧着的木头
+-------------
+```
+brand
+
+英 [brænd]   美 [brænd]  
+n.
+[商]商标，牌子;烙印;〈比喻〉污名，耻辱;燃烧着的木头
+vt.
+污辱;铭刻于;加商标于;打烙印于
+
+
+Winston is a brand of cigarette 
+“温斯顿”是一个香烟品牌。
+《柯林斯高阶英汉双解学习词典》
+
+The British brand of socialism was more interested in reform than revolution. 
+英国式的社会主义更加注重改革，而不是革命。
+《柯林斯高阶英汉双解学习词典》
+
+I was instantly branded as a rebel 
+转眼间我被诬蔑为叛徒。
+《柯林斯高阶英汉双解学习词典》
+
+The owner couldn't be bothered to brand the cattle. 
+主人懒得给牛打烙印。
+《柯林斯高阶英汉双解学习词典》
+
+I bought one of the leading brands. 
+我买了几个畅销品牌中的一种。
+
+
+```
