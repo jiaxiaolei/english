@@ -1660,3 +1660,33 @@ The physical entity which these components represent is not as easily visualised
 
 
 ```
+
+relationship  关系;联系;浪漫关系;血缘关系
+---------------------------------------
+```
+relationship
+英 [rɪˈleɪʃnʃɪp]   美 [rɪˈleʃənˌʃɪp]  
+n.
+关系;联系;浪漫关系;血缘关系
+
+We had been together for two years, but both of us felt the relationship wasn't really going anywhere. 
+我们在一起已经两年了，但我们双方都觉得这段感情不会有什么结果。
+《柯林斯高阶英汉双解学习词典》
+
+There is a relationship between diet and cancer. 
+饮食结构和癌症之间有一定关联。
+《柯林斯高阶英汉双解学习词典》
+
+The film explores the relationship between artist and instrument. 
+这部电影探究了艺术家和乐器之间的关系。
+《柯林斯高阶英汉双解学习词典》
+
+I wanted to build a relationship with my team. 
+我想和我的团队之间建立亲密关系。
+《柯林斯高阶英汉双解学习词典》
+
+Their relationship flowered. 
+他们的关系最终开花结果了。
+《柯林斯高阶英汉双解学习词典》
+
+```
