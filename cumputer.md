@@ -1630,3 +1630,33 @@ I bought one of the leading brands.
 
 
 ```
+
+entity 实体;实际存在物;本质
+-------------------------
+```
+entity
+英 [ˈentəti]   美 [ˈɛntɪti]  
+n.
+实体;实际存在物;本质
+
+North and South will remain separate entities within a commonwealth until the year 2000. 
+南方和北方将作为一个政治联合体下的两个独立实体继续存在，直至2000年。
+《柯林斯高阶英汉双解学习词典》
+
+The country is no longer one political entity. 
+这个国家不再是一个统一的政治实体了。
+百度翻译例句库
+
+The moon is an entity. 
+月亮是一个实体。
+百度翻译例句库
+
+The two aspects of every contradiction coexist in a single entity. 
+矛盾双方共处于一个统一体中。
+百度翻译例句库
+
+The physical entity which these components represent is not as easily visualised as a vector. 
+这些分析量所表示的物理实质，不容易像矢量那样形象化表现出来。
+
+
+```
