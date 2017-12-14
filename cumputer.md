@@ -1690,3 +1690,33 @@ Their relationship flowered.
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+domestic  家庭的；国内的；驯养的; 佣人；家仆
+-----------------------------------------
+```
+domestic　
+英 [də'mestɪk] 　 　  美 [də'mestɪk] 　 　
+adj. 家庭的；国内的；驯养的
+n. 佣人；家仆
+
+
+I was called out to attend a domestic dispute. 
+我被叫出去解决一场家庭纠纷。
+
+
+Women are still the main victims of domestic violence. 
+女性仍然是家庭暴力的主要受害者。
+
+
+
+Washington responded by freezing the price of domestic oil.
+华盛顿作出的反应是冻结国内的石油价格。
+
+We adopt an active attitude towards drawing on overseas fund to make up for domestic fund shortage.
+我们采取积极的态度吸引海外资金以弥补国内资金短缺。
+
+The working conditions of domestics have received media attention.
+家仆的工作状况得到了新闻媒介的关注。
+
+
+```
