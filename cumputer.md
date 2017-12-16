@@ -1720,3 +1720,22 @@ The working conditions of domestics have received media attention.
 
 
 ```
+
+polymorphism 多态性;多机组合形式;多形性
+-------------------------------------
+```
+polymorphism
+英 [ˌpɒlɪ'mɔ:fɪzəm]   美 [ˌpɒlɪ'mɔ:fɪzəm]  
+n.
+多型现象，多态性;多机组合形式;多形性
+
+
+Polymorphism in elements is called allotropy. 
+把元素中的多晶现象称为同素异构性。
+
+
+Causes of seed dormancy and polymorphism of dormancy were summarized in this paper.
+摘要概述了植物种子休眠的原因及种子休眠的多形性。
+
+
+```
