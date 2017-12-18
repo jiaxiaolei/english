@@ -1739,3 +1739,21 @@ Causes of seed dormancy and polymorphism of dormancy were summarized in this pap
 
 
 ```
+
+bridge loan   过桥贷款
+-----------------
+```
+bridge loan
+英 [bridʒ ləun]   美 [brɪdʒ lon]  
+过渡性融资
+
+在《人民的名义》中，第一次听到了过桥贷款，
+
+In June 1997, as the Kremlin struggled to pay overdue wages, Soros extended a bridge loan to the Russian government, acting as a one-man International Monetary Fund. 
+1997年6月，由于俄罗斯政府难以支付拖欠的工资，索罗斯向其提供了一笔过桥贷款，充当起个人“国际货币基金组织”的作用。
+
+But if the economy continued to deteriorate and the industry continued to deteriorate, then even Ford might have to need a bridge loan also. 
+但如果经济继续恶化，行业形势每况愈下，那么即便是福特汽车可能也不得不需要过渡性贷款。
+
+
+```
