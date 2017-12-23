@@ -1757,3 +1757,39 @@ But if the economy continued to deteriorate and the industry continued to deteri
 
 
 ```
+
+volatile 易变的，不稳定的
+------------------------
+```
+volatile
+英 [ˈvɒlətaɪl]   美 [ˈvɑ:lətl]  
+adj.
+易变的，不稳定的;（液体或油）易挥发的;爆炸性的;快活的，轻快的
+
+ - STORAGE_TYPE_PLOCAL - persistent database
+ - STORAGE_TYPE_MEMORY - volatile database
+
+https://github.com/mogui/pyorient/blob/master/pyorient/orient.py
+
+
+There have been riots before and the situation is volatile 
+以前曾发生过暴乱，现在局势不太稳定。
+《柯林斯高阶英汉双解学习词典》
+
+He accompanied the volatile actress to Hollywood the following year 
+第二年他陪着这位情绪无常的女演员去了好莱坞。
+《柯林斯高阶英汉双解学习词典》
+
+It's thought that the blast occurred when volatile chemicals exploded. 
+人们认为，易挥发的化学物质爆炸时产生了冲击波。
+《柯林斯高阶英汉双解学习词典》
+
+The international oil markets have been highly volatile since the early 1970s
+从20世纪70年代初开始，国际石油市场就一直很不稳定。
+《柯林斯高阶英汉双解学习词典》
+
+Armed soldiers guard the streets in this volatile atmosphere. 
+目前局势动荡不定，有武装士兵在街道上警戒。
+《柯林斯高阶英汉双解学习词典》
+
+```
