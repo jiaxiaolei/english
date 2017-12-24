@@ -1793,3 +1793,40 @@ Armed soldiers guard the streets in this volatile atmosphere.
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+tune   调节
+--------------
+
+```
+tune
+英 [tju:n]   美 [tu:n]  
+n.
+曲调，曲子;和谐，调谐;语调;心情
+vt.
+调整;使和谐，使一致;调整（频率）;为…调音
+vi.
+协调;[无线]调谐
+
+
+She'll also be playing your favourite pop tunes. 
+她还将演奏你最喜欢的流行乐曲。
+《柯林斯高阶英汉双解学习词典》
+
+'We do tune our guitars before we go on,' he insisted. 
+“我们在演奏以前确实会为吉他调音，”他坚持说道。
+《柯林斯高阶英汉双解学习词典》
+
+Drivers are urged to make sure that car engines are properly tuned. 
+司机们被敦促要确保汽车发动机调试妥当。
+《柯林斯高阶英汉双解学习词典》
+
+A small colour television was tuned to an afternoon soap opera. 
+一台小彩色电视机频道调在了一出下午的肥皂剧上。
+《柯林斯高阶英汉双解学习词典》
+
+Who would then be calling the tune in Parliament? 
+那在国会谁说了算？
+《柯林斯高阶英汉双解学习词典》
+
+
+```
