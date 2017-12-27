@@ -1928,3 +1928,26 @@ We employ different security techniques to protect the database.
 
 Most NoSQL products employ a custom query language. In this, OrientDB differs by focusing on standards in query languages. That is, instead of inventing "Yet Another Query Language," it begins with the widely used and well-understood language of SQL.
 ```
+
+invoice　　 发货单；发票；货物
+-----------
+```
+invoice　　
+英 ['ɪnvɔɪs] 　 　  美 ['ɪnvɔɪs] 　 　
+n. 发货单；发票；货物
+vt. 开票；寄发票；开清单
+
+
+The goods or services itemized in an invoice.
+清单项目清单上逐条列出的货物或服务。
+
+They sent me the goods,together with an invoice.
+他们把货寄给了我，并附上了发票。
+
+We received the invoice, but the item has not arrived yet.
+我们收到了发票，但货物还没有到。
+
+We need to check it against our order and the invoice when it comes in.
+当货物到达时，我们必须用它来核对我们的定货单和发票。
+
+```
