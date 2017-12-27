@@ -1899,3 +1899,32 @@ Happiness is ubiquitous, may fall short of demand.
 
 Why SQL? Because SQL is ubiquitous in the database development world. It is familiar and more readable and concise than its competitors, such as Map Reduce scripts or JSON based querying.
 ```
+
+
+employ　  雇佣；使用
+-----------------------
+```
+employ　　
+英 [ɪm'plɔɪ] 　 　  美 [ɪm'plɔɪ] 　 　
+v. 雇佣；使用
+
+
+They employ casual labor to pick the fruit
+他们雇佣临时工摘水果。
+
+You must employ someone to oversee the project.
+你得雇个人监督这一工程。
+
+Why do you think we should employ you?
+你认为我们为何要雇佣你?
+
+Different artists employ different painting techniques.
+不同的画家会使用不同的绘画技巧。
+
+We employ different security techniques to protect the database.
+我们使用不同的保护措施来保护数据库。
+
+
+
+Most NoSQL products employ a custom query language. In this, OrientDB differs by focusing on standards in query languages. That is, instead of inventing "Yet Another Query Language," it begins with the widely used and well-understood language of SQL.
+```
