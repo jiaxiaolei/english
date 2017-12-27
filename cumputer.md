@@ -1830,3 +1830,22 @@ Who would then be calling the tune in Parliament?
 
 
 ```
+
+patron   赞助人，资助人
+-----------------
+```
+patron
+英 [ˈpeɪtrən]   美 [ˈpetrən]  
+n.
+赞助人，资助人;顾客，老主顾;保护人;[宗]守护神
+
+
+I hope that you will become our patron. 
+我希望你将成为我们的靠山。
+《汉英大词典》
+
+She is a patron of small businesses and trades. 
+她是几个小企业和小手工艺者的资助人。
+《柯林斯高阶英汉双解学习词典》
+
+```
