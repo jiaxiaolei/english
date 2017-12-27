@@ -1879,3 +1879,23 @@ The restaurant was closed for the night.
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+ubiquitous　  到处存在的
+--------------------------
+```
+ubiquitous　 　
+英 [juː'bɪkwɪtəs] 　 　  美 [juː'bɪkwɪtəs] 　 　
+adj. 到处存在的
+
+He could see the ubiquitous TV cameras.
+他可以看到那些无处不在的电视摄像机。
+
+The struggle between opposites is ubiquitous.
+对立的争斗无所不在。
+
+Happiness is ubiquitous, may fall short of demand.
+幸福无处不在
+
+
+Why SQL? Because SQL is ubiquitous in the database development world. It is familiar and more readable and concise than its competitors, such as Map Reduce scripts or JSON based querying.
+```
