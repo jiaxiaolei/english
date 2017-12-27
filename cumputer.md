@@ -1951,3 +1951,25 @@ We need to check it against our order and the invoice when it comes in.
 当货物到达时，我们必须用它来核对我们的定货单和发票。
 
 ```
+
+dominance   优势;统治;支配;优性
+----------------
+```
+dominance
+英 ['dɒmɪnəns]   美 [ˈdɑmənəns]  
+n.
+优势;统治;支配;优性
+
+
+These economies will no doubt maintain their dominance of financial markets 
+这些经济制度将毫无疑问地维持他们在金融市场上的主导权。
+《柯林斯高阶英汉双解学习词典》
+
+Legislation is the only route to ending the car's dominance as a form of transport.
+立法是终止汽车作为主导交通工具的唯一途径。
+《柯林斯高阶英汉双解学习词典》
+
+
+Given its more than thirty years of dominance, this has long been thought the best way to handle relationships. By contrast, Graph databases suggest a more modern approach to this concept.
+
+```
