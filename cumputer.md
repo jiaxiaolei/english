@@ -1973,3 +1973,59 @@ Legislation is the only route to ending the car's dominance as a form of transpo
 Given its more than thirty years of dominance, this has long been thought the best way to handle relationships. By contrast, Graph databases suggest a more modern approach to this concept.
 
 ```
+
+
+surname 姓，姓氏;别名，绰号 
+--------
+```
+
+surname
+英 [ˈsɜ:neɪm]   美 [ˈsɜ:rneɪm]  
+n.
+姓，姓氏;别名，绰号
+vt.
+给…加姓
+
+She'd never known his surname 
+她一直不知道他姓什么。
+《柯林斯高阶英汉双解学习词典》
+
+The majority of British women adopt their husband's surname when they marry.
+大多数英国女性结婚后随夫姓。
+《柯林斯高阶英汉双解学习词典》
+
+He had anglicized his surname 
+他已将他的姓氏英语化了。
+《柯林斯高阶英汉双解学习词典》
+
+Wang is a very common Chinese surname. 
+王是一个很常见的中国姓。
+《汉英大词典》
+
+What is your surname? 
+你姓什么？
+
+```
+
+constraint 约束;限制;强制
+-----------
+```
+constraint
+英 [kənˈstreɪnt]   美 [kənˈstrent]  
+n.
+约束;限制;强制
+
+
+He is wanting in moral constraints. 
+他缺少道德约束。
+《柯林斯高阶英汉双解学习词典》
+
+Their decision to abandon the trip was made because of financial constraints
+他们决定放弃这次出游是因为财力有限。
+《柯林斯高阶英汉双解学习词典》
+
+The new policy places additional constraints on housing projects. 
+新政策对房产项目增加了限制。
+
+
+```
