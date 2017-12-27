@@ -1849,3 +1849,33 @@ She is a patron of small businesses and trades.
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+restaurant  餐馆；饭店
+--------------
+```
+restaurant
+英 ['restrɒnt] 　 　  美 ['restrɑːnt] 　 　
+n. 餐馆；饭店
+
+
+They ate in an Italian restaurant in Forth Street 
+他们在第四大街的一家意大利餐馆吃了饭。
+《柯林斯高阶英汉双解学习词典》
+
+We had dinner in the hotel's restaurant. 
+我们在这家宾馆的餐厅吃了晚饭。
+《柯林斯高阶英汉双解学习词典》
+
+We were sitting, as I remember, in a riverside restaurant. 
+我记得我们当时是坐在一个河畔的餐馆里。
+《柯林斯高阶英汉双解学习词典》
+
+She took me to a Mexican restaurant 
+她带我去了一家墨西哥餐厅。
+《柯林斯高阶英汉双解学习词典》
+
+The restaurant was closed for the night. 
+餐馆晚上打烊了。
+《柯林斯高阶英汉双解学习词典》
+
+```
