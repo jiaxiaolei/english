@@ -2029,3 +2029,65 @@ The new policy places additional constraints on housing projects.
 
 
 ```
+
+repository 仓库
+----------------
+```
+repository
+英 [rɪˈpɒzətri]   美 [rɪˈpɑ:zətɔ:ri]  
+n.
+仓库;贮藏室;博物馆;亲信
+
+
+
+A church in Moscow became a repository for police files. 
+莫斯科的一座教堂成为警方存放档案的地点。
+《柯林斯高阶英汉双解学习词典》
+
+The repository of all important knowledge in a small town was the chief barman of the local pub. 
+小镇上最无所不知的人就是当地酒吧里的服务员领班。
+```
+
+multiplicity 多数；重复；多样
+--------------------------
+```
+multiplicity
+英 [ˌmʌltɪ'plɪsəti] 　 　  美 [ˌmʌltɪ'plɪsəti] 　 　
+n. 多数；重复；多样
+
+
+India also has a multiplicity of languages.
+同时印度也是一个多语言的国家。
+
+They found a multiplicity of errors in the article.
+他们在文章中发现了许多错误。
+
+A true study of history is sure to be of multiplicity.
+真正的历史研究必须是多元化的。
+
+Multiplicity is the base on which to construct a new world order.
+多极化是建立世界新秩序的力量基础。
+
+We are forced to use a multiplicity of separate detector arrays.
+我们不得不用多个分离的检测器。
+
+```
+
+realize  实现，了解
+-------------------
+```
+realize
+英 [ˈri:əlaɪz]   美 [ˈriəˌlaɪz]  
+vt.
+实现;了解，意识到;（所担心的事）发生;以…价格卖出
+vt.& vi.
+变卖，赚得
+
+People don't realize how serious this recession has actually been
+人们没有意识到这次经济衰退事实上有多严重。
+《柯林斯高阶英汉双解学习词典》
+
+'That's my brother.' —'Oh, I hadn't realized. ' 
+“那是我弟弟。”——“哦，我没认出来呀。”
+
+```
