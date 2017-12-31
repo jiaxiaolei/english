@@ -2091,3 +2091,30 @@ People don't realize how serious this recession has actually been
 “那是我弟弟。”——“哦，我没认出来呀。”
 
 ```
+
+validation    确认
+-----------------
+```
+validation
+英 [ˌvælɪ'deɪʃn]   美 [ˌvælɪ'deɪʃn]  
+n.
+
+确认
+
+
+This example only demonstrates validation. 
+这个示例仅仅演示了验证。
+www.ibm.com
+
+The metadata model is also tightly integrated with the definition and implementation of the event validation and security. 
+元数据模型还与事件检验和安全性的定义和实现紧密集成。
+www.ibm.com
+
+You will use a JavaScript object to group our validation data and messages in a hierarchy. 
+您将使用一个JavaScript对象把我们的验证数据和消息分组到一个层级中。
+www.ibm.com
+
+This is the extended system environment for the validation. 
+这是确认的扩展系统环境。
+
+```
