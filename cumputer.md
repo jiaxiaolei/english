@@ -2118,3 +2118,83 @@ This is the extended system environment for the validation.
 这是确认的扩展系统环境。
 
 ```
+
+association 联想;协会，社团;联合，联系
+--------------------------------
+```
+association
+英 [əˌsəʊʃiˈeɪʃn]   美 [əˌsoʊʃiˈeɪʃn]  
+n.
+联想;协会，社团;联合，联系
+
+
+
+Research associations are often linked to a particular industry. 
+研究协会常与某个特定的行业挂钩。
+
+
+The association between the two companies stretches back thirty years.
+这两家公司的往来可以追溯到30年前。
+
+```
+
+aurora 北极光;曙光;晨曦;朝霞 
+-------------------------
+```
+aurora
+英 [ɔ:'rɔ:rə]  美 [ɔˈrɔrə, ɔˈrorə, əˈrɔrə, əˈrorə]  
+n.
+北极光;曙光;晨曦;朝霞
+
+
+The northern lights, known as the aurora borealis, is one of nature's most dazzling spectacles. 
+北方的光，也就是北极光，是大自然中最耀眼的奇观之一。
+danci.911cha.com
+
+Here we can see a magical astronomical landscape-the aurora borealis.
+在这里我们可以看到一种神奇的天文景观&北极光。
+```
+
+slot   跟踪，跟着足迹追赶;开槽于
+-------------
+```
+slot
+英 [slɒt]   美 [slɑ:t] 
+
+n.
+位置;狭槽，水沟;[人名] 斯洛特;硬币投币口
+vt.
+跟踪，跟着足迹追赶;开槽于
+
+
+He dropped a coin into the slot and dialed. 
+他往投币孔里投了一枚硬币，然后拨了电话。
+《柯林斯高阶英汉双解学习词典》
+
+He was slotting a CD into a CD player 
+他正把一张CD放入CD机中。
+《柯林斯高阶英汉双解学习词典》
+
+Visitors can book a time slot a week or more in advance 
+来访者可以提前一周或更早预约一个时间。
+《柯林斯高阶英汉双解学习词典》
+
+The car seat belt slotted into place easily 
+汽车坐椅安全带很容易扣上。
+《柯林斯高阶英汉双解学习词典》
+
+She slotted in a fresh filter. 
+她放进了一张新的滤纸。
+
+```
+
+generalization 归纳;一般化;普通化;概论
+-----------------------
+```
+generalization
+
+英 [ˌdʒenrəlaɪˈzeɪʃn]   美 [ˌdʒenrələˈzeɪʃn]  
+n.
+归纳;一般化;普通化;概论
+
+```
