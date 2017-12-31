@@ -47,3 +47,20 @@ In OrientDB, each record has its own self-assigned unique ID within the database
 
 
 ```
+
+comma-delimited 
+--------------
+```
+comma-delimited
+逗号分隔
+
+
+You can add attributes and body in the same comma-delimited list. 
+您可以在相同的逗号分隔的列表中添加属性和主体。
+
+
+
+Each element can consist of a comma-delimited list, a hyphenated range, or a single entry. 
+每个元素可以由一个以逗号分隔开的列表组成，或者由一个用连字符连接的范围组成，或者单独由一项组成。
+
+```
