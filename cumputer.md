@@ -2238,3 +2238,64 @@ They are just happy to sell their inventory any which way they can.
 只要存货能脱手，无论采取什么方式他们都愿意。
 
 ```
+
+snoop 探听，窥探，管闲事
+---------
+```
+反亲和
+
+anti affinities
+
+
+反监听
+
+anti snoop
+
+
+
+snoop
+英 [snu:p]   美 [snup]  
+vi.
+探听，窥探，管闲事
+n.
+探听;窥探;管闲事
+
+
+Ricardo was the one she'd seen snooping around Kim's hotel room. 
+她看见在金的宾馆房间周围窥探的那个人正是里卡多。
+《柯林斯高阶英汉双解学习词典》
+
+Governments have been known to snoop on innocent citizens.
+有些政府窥探无辜公民的生活——这一事实已经众所周知。
+《柯林斯高阶英汉双解学习词典》
+
+Each neighborhood had its own organization of snoops who reported strangers to the authorities. 
+每个居民区都有自己的侦探组织，他们向当局汇报陌生人的情况。
+《柯林斯高阶英汉双解学习词典》
+```
+
+affinity  密切关系，姻亲关系;
+---------------------------
+```
+affinity
+英 [əˈfɪnəti]   美 [əˈfɪnɪti]  
+n.
+密切关系，姻亲关系;（男女之间的）吸引力，吸引人的异性;类同;类似，近似
+
+
+He has a close affinity with the landscape he knew when he was growing up 
+他对这片从小就了解的土地有着一种归属感。
+
+The two plots share certain obvious affinities. 
+这两个情节有某种明显的相似。
+
+This substance has an affinity for water. 
+这物质和水有亲和力。
+
+Backing of the PLO stemmed more from long-held designs on Jordan than political affinity with palestinians. 
+对巴勒斯坦解放组织的支持更多地出于对约旦的长期阴谋，而不是同巴勒斯坦人在政治上的共鸣。
+
+According to some modern critics, li yu's Ci poems evince a certain affinity to the people. 
+有的现代评论家认为，李煜的词具有一定的人民性。
+
+```
