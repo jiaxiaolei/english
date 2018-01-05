@@ -2299,3 +2299,25 @@ According to some modern critics, li yu's Ci poems evince a certain affinity to 
 有的现代评论家认为，李煜的词具有一定的人民性。
 
 ```
+
+deflated  泄气的;令人泄气的，使人气馁的
+----------------------------------
+```
+deflated 英[dɪf'leɪtɪd]
+美[dɪˈfletɪd]
+adj. （球、轮胎等）泄气的;令人泄气的，使人气馁的
+v. （使）漏气( deflate的过去式和过去分词 );（使）…瘪下去;紧缩（...
+
+[例句]They looked a bit deflated.
+他们看起来有一些泄气。
+```
+
+ambiguous  模糊不清的；
+---------------
+```
+ambiguous [æm'bɪgjʊəs]
+adj. 模糊不清的；引起歧义的；
+
+
+n. 模糊不清的；[数]引起歧义的
+```
