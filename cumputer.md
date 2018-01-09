@@ -2321,3 +2321,10 @@ adj. 模糊不清的；引起歧义的；
 
 n. 模糊不清的；[数]引起歧义的
 ```
+
+网络接口
+--------------
+```
+WSGI：Web Server Gateway Interface。
+CGI: common gateway interface
+```
