@@ -2322,6 +2322,29 @@ adj. 模糊不清的；引起歧义的；
 n. 模糊不清的；[数]引起歧义的
 ```
 
+boutique  精品店
+-------------
+```
+boutique [buː'tiːk]
+
+n. 精品店；专卖流行衣服的小商店
+adj. 精品屋的；小规模专售精品的
+n. (Boutique)人名；(法)布蒂克
+
+A boutique and beauty salon are conveniently located within the grounds.
+时装店和美容院就在区内，非常方便。
+《柯林斯高阶英汉双解学习词典》
+
+Her jacket was at the boutique waiting for alteration.
+她的短上衣放在时装店里，要做些改动。
+《柯林斯高阶英汉双解学习词典》
+
+I've had a look at the dresses in the new boutique, but they're nothing to write home about.
+我瞧了一眼妇女时装用品小商店的那几件新衣服，它们并不怎么样。
+《百度翻译例句库》
+
+```
+
 网络接口
 --------------
 ```
