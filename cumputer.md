@@ -2351,3 +2351,25 @@ I've had a look at the dresses in the new boutique, but they're nothing to write
 WSGI：Web Server Gateway Interface。
 CGI: common gateway interface
 ```
+
+passive 被动的;消极的;不抵抗的;冷漠的
+-----------
+```
+passive
+英 [ˈpæsɪv]   美 [ˈpæsɪv]  
+adj.
+被动的;消极的;不抵抗的;冷漠的
+n.
+动词被动形式，被动语态
+
+
+
+His passive attitude made things easier for me 
+他顺从的态度让我做起事来要轻松些。
+《柯林斯高阶英汉双解学习词典》
+
+They want less passive ways of filling their time. 
+他们想找些更为积极的方式来打发时间。
+
+
+```
