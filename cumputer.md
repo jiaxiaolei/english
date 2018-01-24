@@ -2373,3 +2373,81 @@ They want less passive ways of filling their time.
 
 
 ```
+
+airlines 航空公司 
+--------
+```
+airlines
+英 ['erlaɪns]   美 ['erlaɪns]  
+n.
+航空公司( airline的名词复数 )
+
+
+The two airlines will cooperate on ticketing and schedules. 
+两家航空公司将在票务和航班安排上展开合作。
+《柯林斯高阶英汉双解学习词典》
+
+
+Airlines consider business travellers a captive market. 
+航空公司把商务旅行者视为垄断性市场。
+《柯林斯高阶英汉双解学习词典》
+
+This has forced airlines to discount fares heavily in order to spur demand 
+这迫使航空公司对机票大幅打折来刺激需求。
+《柯林斯高阶英汉双解学习词典》
+```
+
+lounge   客厅;休息厅;（机场等的）等候室
+------------------------------------
+```
+lounge
+英 [laʊndʒ]   美 [laʊndʒ]  
+n.
+客厅;休息厅;（机场等的）等候室
+vi.
+闲逛;懒洋洋地躺
+vt.
+懒洋洋地打发（时间）;虚度光阴
+
+
+The Holmbergs were sitting before a roaring fire in the lounge, sipping their cocoa. 
+霍姆伯格一家坐在客厅里，对着熊熊炉火呷着可可。
+《柯林斯高阶英汉双解学习词典》
+
+I spoke to her in the lounge of a big Johannesburg hotel where she was attending a union meeting. 
+我在约翰内斯堡一家大酒店的休息大厅跟她打过招呼，她当时在那里参加一个工会会议。
+《柯林斯高阶英汉双解学习词典》
+
+Instead of taking me to the departure lounge they took me right to my seat on the plane. 
+他们没有带我去候机厅，而是直接领我上飞机到了我的座位上。
+《柯林斯高阶英汉双解学习词典》
+
+They ate and drank and lounged in the shade 
+他们在阴凉处吃吃喝喝懒懒地闲坐着。
+《柯林斯高阶英汉双解学习词典》
+```
+
+comprehensive    综合的;广泛的;有理解力的，悟性好的;[保险业]总体担保的 
+--------------------
+```
+comprehensive
+英 [ˌkɒmprɪˈhensɪv]   美 [ˌkɑ:mprɪˈhensɪv]  
+adj.
+综合的;广泛的;有理解力的，悟性好的;[保险业]总体担保的
+n.
+[常用复数]专业综合考试;综合学校;综合性中学
+
+
+The Rough Guide to Nepal is a comprehensive guide to the region.
+《尼泊尔概况》是一本全面介绍该地区的旅游指南。
+《柯林斯高阶英汉双解学习词典》
+
+She taught French at Cheam Comprehensive in South London. 
+她在伦敦南部的奇姆综合中学教法语。
+《柯林斯高阶英汉双解学习词典》
+
+For the last 20 years, I have been an unquestioning supporter of comprehensive schools. 
+在过去的20年中，我一直都是综合性学校的坚决支持者。
+《柯林斯高阶英汉双解学习词典》
+
+```
