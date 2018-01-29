@@ -2451,3 +2451,39 @@ For the last 20 years, I have been an unquestioning supporter of comprehensive s
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+
+swear   发誓;咒骂
+-----------
+```
+swear
+英 [sweə(r)]   美 [swer]  
+v.
+发誓;咒骂
+n.
+咒骂;发誓，宣誓
+
+
+
+It's wrong to swear and shout 
+破口大骂是不对的。
+《柯林斯高阶英汉双解学习词典》
+
+Alan swore that he would do everything in his power to help us 
+艾伦许诺要尽其所能帮助我们。
+《柯林斯高阶英汉双解学习词典》
+
+I swear I've told you all I know 
+我发誓我已经把我所知道的全都告诉你了。
+《柯林斯高阶英汉双解学习词典》
+
+She was bursting to announce the news but was sworn to secrecy.
+她急不可待想宣布这个消息，但却发过誓要守口如瓶。
+《柯林斯高阶英汉双解学习词典》
+
+They swore at them and ran off. 
+他们骂了他们后就跑掉了。
+《柯林斯高阶英汉双解学习词典》
+
+
+```
