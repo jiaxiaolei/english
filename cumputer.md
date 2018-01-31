@@ -2487,3 +2487,58 @@ They swore at them and ran off.
 
 
 ```
+
+```
+
+
+
+Where the PyOrient Client is a wrapper for the Binary Protocol, the Object-Graph Mapper provides a higher-level object-oriented Pythonic interface for Graph databases in OrientDB. It is comparable to the use of ORM's with Relational databases.
+
+comparable
+英 [ˈkɒmpərəbl]   美 [ˈkɑ:mpərəbl]  
+adj.
+可比较的;比得上的
+
+
+Farmers were meant to get an income comparable to that of townspeople 
+农民的收入本应该与城里人的收入相当。
+《柯林斯高阶英汉双解学习词典》
+
+In other comparable countries real wages increased much more rapidly 
+在其他具有可比性的国家，实际工资上涨更快。
+《柯林斯高阶英汉双解学习词典》
+
+The risk it poses is comparable with smoking just one cigarette every year. 
+它所带来的危害相当于每年只抽一支烟所造成的危害。
+《柯林斯高阶英汉双解学习词典》
+
+
+
+The purpose of the OGM is to make interactions with large and complex Graph databases more understandable and easier to maintain. It bridges the gap between higher level object-oriented concepts in your application and the vertices and edges in your databa
+
+
+
+Currently, the mapper does not support TRAVERSE and it's support for Gremlin is functional, but limited.
+
+```
+
+Gremlin 小鬼
+----------
+```
+gremlin
+英 [ˈgremlɪn]   美 [ˈɡrɛmlɪn]  
+n.
+小鬼
+复数： gremlins
+
+
+N-COUNT （尤指机器出现不明故障时人们假想出来的捣乱的）小妖精 A gremlin is a tiny imaginary evil spirit that people say is the cause of a problem, especially in a machine, which they cannot explain properly or locate.
+The microphones went dead as if the technical gremlins had struck again.
+麦克风没有了声音，似乎小妖怪又把设备弄坏了。
+
+
+
+Gremlin is a Turing Complete programming language useful for working with graphs. 
+Gremlin是操作图表的一个非常有用的图灵完备的编程语言。
+
+```
