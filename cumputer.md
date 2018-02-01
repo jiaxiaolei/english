@@ -2564,6 +2564,29 @@ Kamal was a vendor in Egypt's open-air bazaar.
 卡迈勒是埃及露天集市里的一个小贩。
 《柯林斯高阶英汉双解学习词典》
 
+```
 
+deputy  代表;副手;代理人
+------------------ 
+```
+deputy
+英 [ˈdepjuti]   美 [ˈdɛpjəti]  
+n.
+代表;副手;代理人
+adj.
+副的;代理的
+
+
+The president appealed to deputies to approve the plan quickly.
+总统呼吁议员尽快通过这一方案。
+《柯林斯高阶英汉双解学习词典》
+
+Is this fair? Well, I put that question today to Deputy Counsel Craig Gillen 
+这公平吗？我今天向副顾问克雷格·吉伦提出这个问题。
+《柯林斯高阶英汉双解学习词典》
+
+I decided to put in for a job as deputy secretary. 
+我决定申请副书记一职。
+《柯林斯高阶英汉双解学习词典》
 
 ```
