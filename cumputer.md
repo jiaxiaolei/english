@@ -2542,3 +2542,28 @@ Gremlin is a Turing Complete programming language useful for working with graphs
 Gremlin是操作图表的一个非常有用的图灵完备的编程语言。
 
 ```
+
+vendor   卖主;摊贩，小
+-----------
+```
+vendor
+英 [ˈvendə(r)]   美 [ˈvɛndɚ]  
+n.
+卖主;摊贩，小贩;[贸易]自动售货机;<正式>供应商
+
+
+Remember, the estate agent is working for the vendor. 
+记住，房地产代理商是为房地产卖方服务的。
+《柯林斯高阶英汉双解学习词典》
+
+There is no evidence that the broker was in league with the fraudulent vendor 
+没有证据表明该经纪人与进行诈骗的卖主狼狈为奸。
+《柯林斯高阶英汉双解学习词典》
+
+Kamal was a vendor in Egypt's open-air bazaar. 
+卡迈勒是埃及露天集市里的一个小贩。
+《柯林斯高阶英汉双解学习词典》
+
+
+
+```
