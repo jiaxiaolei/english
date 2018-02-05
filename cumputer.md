@@ -2590,3 +2590,26 @@ I decided to put in for a job as deputy secretary.
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+sponsor  赞助者；主办者；保证人
+------------------------
+```
+sponsor ['spɒnsə]
+n. 赞助者；主办者；保证人
+vt. 赞助；发起
+
+```
+
+tinker  补锅匠；修补匠；焊锅；
+--------------------- 
+```
+tinker ['tɪŋkə]
+n. 补锅匠；修补匠；焊锅；（美）小鲭鱼
+vi. 做焊锅匠；焊补；笨手笨脚地做事
+vt. 修补；粗修
+n. (Tinker)人名；(英)廷克
+
+tinker with the code.....
+
+
+```
