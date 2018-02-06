@@ -2613,3 +2613,18 @@ tinker with the code.....
 
 
 ```
+
+
+trouble shooting  故障排除 
+--------------------------
+```
+trouble shooting
+[英][ˈtrʌbl ˈʃu:tɪŋ][美][ˈtrʌbəl ˈʃutɪŋ]
+n.问题解答; 
+例句:
+1.
+To be specific, I do system analysis, trouble shooting and provide software supporting. 
+具体地说，我做系统分析，解决问题以及软件供应方面的支持。
+
+
+```
