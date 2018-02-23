@@ -2753,3 +2753,92 @@ ARP Attacks and Prevention based on the Redirection Route Spoofing
 ARP攻击与基于重定向路由欺骗技术的分析与防范
 
 ```
+
+collaborator  通敌者;协作者，合作者
+-----------
+```
+collaborator
+英 [kəˈlæbəreɪtə(r)]   美 [kəˈlæbəˌretɚ]  
+n.
+通敌者;协作者，合作者
+
+
+He was a dynamic and fearless competitor, collaborator, and friend. 
+他是一个充满活力勇敢无畏的竞争者，合作者，也是朋友。
+
+
+We are the best collaborator forever. 
+我们永远是最好的合作伙伴。
+```
+
+```
+contributor
+英 [kənˈtrɪbjətə(r)]   美 [kən'trɪbjʊtə]  
+n.
+贡献者;捐助者;投稿者
+
+
+
+He is a regular contributor to children's magazines. 
+他经常为儿童刊物写稿。
+《汉英大词典》
+
+He is a generous contributor. 
+他是位慷慨的捐助者。
+```
+
+```
+collaborate
+英 [kəˈlæbəreɪt]   美 [kəˈlæbəˌret]  
+vi.
+合作，协作;（国家间的）协调，提携;勾结，通敌
+
+
+The collaborated with his son Michael on the English translation of a text on food production 
+他和儿子迈克尔合作，把一篇介绍食品生产的文章译成了英文。
+《柯林斯高阶英汉双解学习词典》
+
+He was accused of having collaborated with the secret police. 
+他被控与秘密警察勾结。
+《柯林斯高阶英汉双解学习词典》
+3
+The government is urging Japan's firms to collaborate with foreigners.
+政府正在督促日本的公司进行更多的海外合作。
+《柯林斯高阶英汉双解学习词典》
+4
+The two men met and agreed to collaborate. 
+这两个人见了面，并同意进行合作。
+```
+
+
+cooperate 合作，配合，协助
+--------
+```
+cooperate
+英 [kəʊ'ɒpəreɪt]   美 [koˈɑpəˌret]  
+vi.
+合作，配合，协助
+v.
+合群;互助;结合
+
+We want to cooperate with both the administration and Congress. 
+我们既想与政府合作，也想与国会合作。
+《柯林斯高阶英汉双解学习词典》
+
+I should like you to cooperate on [ with] the writing of my next book. 
+我希望你协助我写下一本书。
+《汉英大词典》
+
+The two airlines will cooperate on ticketing and schedules. 
+两家航空公司将在票务和航班安排上展开合作。
+《柯林斯高阶英汉双解学习词典》
+
+Can you cooperate with us? 
+你能和我们合作吗？
+百度翻译例句库
+
+I hope you can cooperate on this matter. 
+我希望你在这件事上能给予合作。
+
+
+```
