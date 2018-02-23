@@ -2627,4 +2627,50 @@ To be specific, I do system analysis, trouble shooting and provide software supp
 具体地说，我做系统分析，解决问题以及软件供应方面的支持。
 
 
+conform   符合;遵照;适应环境
+------
+```
+
+conform
+英 [kənˈfɔ:m]   美 [kənˈfɔ:rm]  
+vi.
+符合;遵照;适应环境
+vt.
+使遵守;使一致;使顺从
+adj.
+一致的;顺从的
+
+
+The Night Rider lamp has been designed to conform to new British Standard safety requirements 
+“夜行者”灯的设计符合新的英国安全标准的要求。
+《柯林斯高阶英汉双解学习词典》
+
+Many children who can't or don't conform are often bullied 
+很多不能或不按规矩行事的小孩常常被人欺负。
+《柯林斯高阶英汉双解学习词典》
+
+I am well aware that we all conform to one stereotype or another 
+我们所有人都能找到某种与自己相似的模式化形象，这一点我很清楚。
+```
+
+convention  会议;全体与会者;国际公约;惯例，习俗，规矩
+--------------  
+```
+convention
+英 [kənˈvenʃn]   美 [kənˈvɛnʃən]  
+n.
+会议;全体与会者;国际公约;惯例，习俗，规矩
+
+
+It's just a social convention that men don't wear skirts 
+男人不穿裙子只是一种社会习俗。
+《柯林斯高阶英汉双解学习词典》
+
+We go offstage and come back for the convention of the encore. 
+按照加演的传统做法，我们走到后台后又再次返场。
+《柯林斯高阶英汉双解学习词典》
+
+Despite her wish to defy convention, she had become pregnant and married at 21. 
+尽管她不想遵循传统习俗，但她还是在21岁的时候就怀孕并且结婚了。
+
 ```
