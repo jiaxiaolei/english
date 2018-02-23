@@ -2674,3 +2674,62 @@ Despite her wish to defy convention, she had become pregnant and married at 21.
 尽管她不想遵循传统习俗，但她还是在21岁的时候就怀孕并且结婚了。
 
 ```
+
+```
+placement
+英 [ˈpleɪsmənt]   美 [ˈpleɪsmənt]  
+n.
+安置，放置;实习工作，实习课;定位，[足]定位球
+
+
+He had a six-month work placement with the Japanese government.
+他被安排在日本政府部门实习了6个月。
+《柯林斯高阶英汉双解学习词典》
+
+The children were waiting for placement in a foster care home 
+这些孩子在抚育院等待安置。
+```
+
+infrastructure  基础设施;基础建设
+----------
+```
+infrastructure
+英 [ˈɪnfrəstrʌktʃə(r)]   美 [ˈɪnfrəˌstrʌktʃɚ]  
+n.
+基础设施;基础建设
+
+
+
+The infrastructure, from hotels to transport, is old and decrepit. 
+从宾馆到交通，所有的基础设施都已陈旧失修。
+《柯林斯高阶英汉双解学习词典》
+
+Years of civil war have wrecked the country's infrastructure and destroyed its social fabric. 
+经年内战已破坏了国家的基础设施，摧毁了其社会结构。
+《柯林斯高阶英汉双解学习词典》
+
+Japanese proprietors are erecting a complex infrastructure of political influence throughout America 
+日本商人正在美国各地建立复杂的、具有政治影响力的基础结构。
+
+```
+
+discipline 训练;使有纪律;处罚;使有条理
+--------
+```
+discipline
+英 [ˈdɪsəplɪn]   美 [ˈdɪsəplɪn]  
+vt.
+训练;使有纪律;处罚;使有条理
+n.
+纪律;学科;训练;符合行为准则的行为（或举止）
+
+
+It was that image of calm and discipline that appealed to voters. 
+正是那个冷静、自律的形象打动了选民。
+《柯林斯高阶英汉双解学习词典》
+
+The discipline of studying music can help children develop good work habits.
+音乐学习中的训练可以帮助孩子们培养好的工作习惯。
+
+
+```
