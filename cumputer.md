@@ -2733,3 +2733,23 @@ The discipline of studying music can help children develop good work habits.
 
 
 ```
+
+spoofing   哄骗 
+```
+spoofing
+英 [spu:fɪŋ]   美 [spu:fɪŋ]  
+哄骗
+
+
+his prohibition reduces the risk of security attacks such as name spoofing.
+此禁止减少了安全攻击风险，例如名称欺骗。
+provided by jukuu
+2
+The following attacks should be considered into account: man-in-middle, spoofing, sniffing and Denial of services. 
+以下袭击，应考虑到：人在中间，欺骗，嗅探和拒绝服务。
+iask.sina.com.cn
+3
+ARP Attacks and Prevention based on the Redirection Route Spoofing
+ARP攻击与基于重定向路由欺骗技术的分析与防范
+
+```
