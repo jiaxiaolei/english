@@ -891,7 +891,13 @@ vt. 分派；分配；分配额
 
 
 
-The system was unable to allocate a new data object.
+The sys
+
+
+
+
+
+was unable to allocate a new data object.
 系统无法分派新的数据对象。
 
 
@@ -2938,5 +2944,70 @@ In Britain, jazz is losing its elitist tag and gaining a much broader audience.
 She has always lived in John's house and is still tagged 'Dad's girlfriend' by his children. 
 她一直住在约翰家里，依然被他的孩子们称作“爸爸的女友”。
 《柯林斯高阶英汉双解学习词典》
+
+```
+
+temporarily 暂时地;临时地
+-----------------
+```
+
+temporarily
+英 [tempəˈrerɪlɪ]   美 [tempəˈrerɪlɪ]  
+adv.
+暂时地;临时地
+
+
+
+temporarily　
+英 ['temprərəli] 　 美 ['temprərəli] 　 　
+adv. 暂时地；临时地
+
+
+【近义词】
+for the time being  暂时，目前，眼下...  for the moment 暂时 provisionally    暂时地  momentarily    暂时地 in the meantime 与此同时  in the short term 就眼前来说 in the first instance 首先  in the interim  在其间 briefly 简短地  pro tem    暂时地
+【反义词】
+permanently 永久地
+
+
+
+temporary
+英 [ˈtemprəri]   美 [ˈtempəreri]  
+adj.
+短暂的;临时的，暂时的
+n.
+临时工，临时雇员
+
+
+temporally change 
+
+临时修改: 
+
+
+temporally　 
+英 ['tempərəl] 　 　  美 ['tempərəl] 　 　
+adj. 现世的；暂时的；当时的；太阳穴的；颞的
+
+
+
+He cares for nothing but temporal affairs.
+他只关心世俗之事。
+
+The Pope has no temporal power in modern society.
+教皇在当代社会没有世俗方面的权利。
+
+假设您工作到很晚，并且您想要临时修改其他人的代码。
+Imagine that you are working late at night, and you want to temporarily fix someone else's code. 
+www.ibm.com
+
+原始的Lotus Quickr主题可以在应用主题的临时修改或增加普通的修复包后重新部署。
+The original Lotus Quickr theme can get redeployed when applying interim fixes to the theme or adding fix packs in general. 
+
+开发商只好临时修改图纸，在房子外围建设。
+They just modified the design drawing temporarily, and kept the old house inside. 
+www.youtheme.cn
+
+此外，您可以为单个命令临时地修改一个环境变量的值。
+Additionally, you can temporarily alter the value of an environment variable for a single command. 
+
 
 ```
