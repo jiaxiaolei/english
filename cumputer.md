@@ -3011,3 +3011,25 @@ Additionally, you can temporarily alter the value of an environment variable for
 
 
 ```
+
+cast 卡司  铸造;投射;投掷;脱落，脱皮
+---------
+```
+cast
+英 [kɑ:st]   美 [kæst]  
+vt.
+铸造;投射;投掷;脱落，脱皮
+n.
+铸型;演员表;轻微的斜视;投，掷骰
+vi.
+掷，投;计算，加
+
+
+The show is very amusing and the cast are very good. 
+演出妙趣横生，演员的表演也很出彩。
+《柯林斯高阶英汉双解学习词典》
+
+The world premiere of Harold Pinter's new play casts Ian Holm in the lead role 
+哈罗德·品特新剧的世界首演由伊恩·霍尔姆担纲主演。
+
+```
