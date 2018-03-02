@@ -3033,3 +3033,41 @@ The world premiere of Harold Pinter's new play casts Ian Holm in the lead role
 哈罗德·品特新剧的世界首演由伊恩·霍尔姆担纲主演。
 
 ```
+
+scratch   擦，刮;擦痛，擦伤;在…处搔痒;抓破
+--------------------- 
+```
+scratch
+英 [skrætʃ]   美 [skrætʃ]  
+vt.
+擦，刮;擦痛，擦伤;在…处搔痒;抓破
+vi.
+发出刮擦声;擦红，擦伤;搔痒;抓，扒
+n.
+擦，刮;刮擦声;搔痕;乱写乱画
+adj.
+打草稿用的，随便写用的;碰巧的，侥幸的;东拼西凑的;平等比赛的
+
+
+He scratched himself under his arm 
+他在胳膊下面挠了挠。
+《柯林斯高阶英汉双解学习词典》
+
+The branches tore at my jacket and scratched my hands and face
+树枝刮破了我的夹克，划伤了我的手和脸。
+《柯林斯高阶英汉双解学习词典》
+
+
+The seven-year-old was found crying with scratches on his face and neck 
+那名7岁男孩被发现时正在哭泣，脸部和颈部都有划伤。
+《柯林斯高阶英汉双解学习词典》
+
+Building a home from scratch can be both exciting and challenging
+建立一个全新的家庭既让人兴奋又富于挑战。
+《柯林斯高阶英汉双解学习词典》
+
+The Institute spends a lot of time scratching its head about how to boost American productivity. 
+该协会花费大量时间苦苦思索如何提高美国的生产力。
+《柯林斯高阶英汉双解学习词典》
+
+```
