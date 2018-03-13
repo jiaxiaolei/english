@@ -3101,3 +3101,71 @@ Three years ago my wife and I divorced. I caught her with her boss.
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+inventory 清查;存货清单;财产目录
+-----------
+```
+inventory
+英 [ˈɪnvəntri]   美 [ˈɪnvəntɔ:ri]  
+n.
+清查;存货清单;财产目录，财产目录的编制;存货总值
+vt.
+盘存;编制…的目录;开列…的清单;总结
+
+
+Before starting, he made an inventory of everything that was to stay.
+开始之前，他把所有要留下的东西列了详细的清单。
+《柯林斯高阶英汉双解学习词典》
+
+Some stores inventory their stock once a week. 
+有些商店每周清点存货一次。
+《汉英大词典》
+
+They are just happy to sell their inventory any which way they can.
+只要存货能脱手，无论采取什么方式他们都愿意。
+《柯林斯高阶英汉双解学习词典》
+
+They're likely to hold big fire sales to liquidate their inventory 
+他们可能会举行清仓大甩卖。
+《柯林斯高阶英汉双解学习词典》
+
+This inventory was known as chrysler's sales bank. 
+这些存货被称为克莱斯勒公司的销售库。
+百度翻译例句库
+```
+
+tag   附加;加标签于;起诉;紧跟
+------------
+```
+tag
+英 [tæg]   美 [tæɡ]  
+vt.
+附加;加标签于;起诉;紧跟
+vi.
+跟在…后面;随从
+n.
+标签;附属物;口头禅;称呼
+
+
+Staff wore name tags. 
+工作人员都佩戴姓名牌。
+《柯林斯高阶英汉双解学习词典》
+
+A hospital is to fit newborn babies with electronic tags to foil kidnappers
+一家医院计划在新生儿身上安置电子追踪器，防止婴儿被拐卖。
+《柯林斯高阶英汉双解学习词典》
+
+Professor Orr has developed interesting ways of tagging chemical molecules using existing laboratory lasers 
+奥尔教授发明了用现有实验室激光设备给化学分子做记号的种种有趣的办法。
+《柯林斯高阶英汉双解学习词典》
+
+In Britain, jazz is losing its elitist tag and gaining a much broader audience. 
+在英国，爵士乐不再是精英人物的专利，它正吸引着越来越多的听众。
+《柯林斯高阶英汉双解学习词典》
+
+She has always lived in John's house and is still tagged 'Dad's girlfriend' by his children. 
+她一直住在约翰家里，依然被他的孩子们称作“爸爸的女友”。
+《柯林斯高阶英汉双解学习词典》
+
+
+```
