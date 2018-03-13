@@ -3167,5 +3167,101 @@ She has always lived in John's house and is still tagged 'Dad's girlfriend' by h
 她一直住在约翰家里，依然被他的孩子们称作“爸爸的女友”。
 《柯林斯高阶英汉双解学习词典》
 
+```
+
+
+```
+
+
+traversal
+英 [træ'vɜ:sl]   美 ['trævɜ:səl]  
+n.
+横越，横断物，（横向）往返移动
+
+
+To facilitate the many traversal needs, QueryPath provides several methods for traversing. 
+为了简化遍历需求，QueryPath提供了一些用于遍历的方法。
+www.ibm.com
+
+In general, both direct and traversal access require knowledge of the internal node structure. 
+一般来说，直接存取和遍历存取都需要知道内部节点的结构。
+
+
+
+gremlin
+英 [ˈgremlɪn]   美 [ˈɡrɛmlɪn]  
+n.
+小鬼
+
+
+The microphones went dead as if the technical gremlins had struck again. 
+麦克风没有了声音，似乎小妖怪又把设备弄坏了。
+《柯林斯高阶英汉双解学习词典》
+以下例句来源于网络，仅供参考
+2
+Gremlin is a Turing Complete programming language useful for working with graphs. 
+Gremlin是操作图表的一个非常有用的图灵完备的编程语言。
+
+
+central
+英 [ˈsentrəl]   美 [ˈsɛntrəl]  
+adj.
+中央的，中心的;重要的，核心的
+n.
+电话总局;电话转接员
+
+
+The disruption has now spread and is affecting a large part of central Liberia. 
+混乱局面已经扩散，正在影响利比里亚中部的大片地区。
+《柯林斯高阶英汉双解学习词典》
+
+There is a lack of trust towards the central government in Rome.
+人们对罗马的中央政府缺乏信任。
+《柯林斯高阶英汉双解学习词典》
+
+Black dance music has been central to mainstream pop since the early '60s. 
+自上世纪60年代以来，黑人舞曲一直是主流流行乐的核心。
+《柯林斯高阶英汉双解学习词典》
+
+Education is central to a country's economic development 
+教育对一个国家的经济发展至关重要。
+《柯林斯高阶英汉双解学习词典》
+```
+
+versa  反之
+--------
+```
+versa
+英 ['vɜ:sə]   美 ['vɜ:sə]  
+adj.
+
+There are important capabilities and concepts in SOA that are not included in Information On Demand and vice versa. 
+在SOA中，有一些重要的功能和概念是Information on Demand中没有的，反之亦然。
+
+
+Teachers qualified to teach in England are not accepted in Scotland and vice versa. 
+在英格兰有教书资格的老师在苏格兰得不到认可，反之亦然。
+《柯林斯高阶英汉双解学习词典》
+
+We gossip about them and vice versa. 
+我们议论他们，他们也议论我们。
+```
+
+monolithic  整体的;独块巨石的;庞大的
+----------
+```
+monolithic
+英 [ˌmɒnə'lɪθɪk]   美 [ˌmɑnəˈlɪθɪk]  
+adj.
+整体的;独块巨石的;庞大的
+
+
+Don't think this gang is monolithic--it can be split up. 
+不要以为这帮人是铁板一块，他们是可以分化的。
+《汉英大词典》
+
+In developing countries, the system for training doctors and nurses is often monolithic and state-financed. 
+在发展中国家，医生和护士的培训系统通常由国家资助并垄断。
+blog.ecocn.org
 
 ```
