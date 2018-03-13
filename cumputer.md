@@ -3071,3 +3071,33 @@ The Institute spends a lot of time scratching its head about how to boost Americ
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+```
+divorced
+英 [dɪˈvɔ:st]   美 [dɪˈvɔ:rst]  
+adj.
+离婚的;分开的;不相干的;脱离的
+v.
+与…离婚(divorce的过去式和过去分词);分离;与某人离婚，判某人离婚
+
+Princess Margaret is divorced from Lord Snowdon 
+玛格丽特公主与斯诺登勋爵离婚了。
+《柯林斯高阶英汉双解学习词典》
+
+This just shows how divorced from reality she's become. 
+这恰恰说明了她变得多么不切实际。
+《柯林斯高阶英汉双解学习词典》
+
+He is divorced, with a young son. 
+他离婚了，带着一个年幼的儿子。
+《柯林斯高阶英汉双解学习词典》
+
+My parents divorced when I was very young 
+我很小的时候父母就离婚了。
+《柯林斯高阶英汉双解学习词典》
+
+Three years ago my wife and I divorced. I caught her with her boss.
+3年前，我和老婆离了婚。我发现她和她老板有染。
+《柯林斯高阶英汉双解学习词典》
+
+```
