@@ -3265,3 +3265,65 @@ In developing countries, the system for training doctors and nurses is often mon
 blog.ecocn.org
 
 ```
+
+```
+parentheses
+英 [pəˈrenθəsi:z]   美 [pə'renθəsi:z]  
+n.
+圆括号，插入语，插曲（ parenthesis的名词复数 ）
+```
+
+```
+brackets
+英 [brækəts]   美 [brækəts]  
+n.
+括弧( bracket的名词复数 );等级;类别层次;壁架
+v.
+把…括在括弧内( bracket的第三人称单数 );把…归为一类
+```
+
+```
+braces
+英 [b'reɪsɪz]   美 [b'reɪsɪz]  
+n.
+吊带，背带;托架( brace的名词复数 );箍子;括弧;（儿童）牙箍
+v.
+支住( brace的第三人称单数 );撑牢;使自己站稳;振作起来
+```
+
+```
+continuation
+英 [kənˌtɪnjuˈeɪʃn]   美 [kənˌtɪnjuˈeɪʃən]  
+n.
+继续，连续，持续;延续，续篇，（线路等的）延长，延长部分;连接短裤的帮腿;（报刊等的）续刊、增刊
+```
+
+```
+resort
+英 [rɪˈzɔ:t]   美 [rɪˈzɔ:rt]  
+vi.
+求助于或诉诸某事物，采取某手段或方法应急或作为对策
+n.
+求助，凭借，诉诸;热闹场所，娱乐场，度假胜地;常去;采用的办法，求助[凭借]的对象
+```
+
+```
+fragile
+英 [ˈfrædʒaɪl]   美 [ˈfrædʒl]  
+adj.
+易碎的，脆的;虚弱的
+
+```
+
+```
+idiomatic
+英 [ˌɪdiəˈmætɪk]   美 [ˌɪdiəˈmætɪk]  
+adj.
+符合语言习惯的，成语的;含有习语的
+adv.
+符合语言习惯地
+n.
+符合语言习惯
+
+
+```
