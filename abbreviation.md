@@ -53,3 +53,10 @@ https://docs.openstack.org/project-team-guide/ptl.html
 
 
 ```
+
+ERP
+-----
+```
+企业资源计划即 ERP (Enterprise Resource Planning)
+
+```
