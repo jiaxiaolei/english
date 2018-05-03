@@ -3478,3 +3478,32 @@ They all smiled at him and bade him eat
 
 
 ```
+
+adult    成年的人或动物
+--------------
+```
+adult
+英 [ˈædʌlt]   美 [ əˈdʌlt, ˈædʌlt]  
+adj.
+成年的;成年人的;成熟的;（智力、思想、行为）成熟的
+n.
+成年的人或动物
+
+
+Becoming a father signified that he was now an adult 
+当了父亲意味着他已是个成年人了。
+《柯林斯高阶英汉双解学习词典》
+
+I've lived most of my adult life in London. 
+我成年之后的大部分时间都是在伦敦度过的。
+《柯林斯高阶英汉双解学习词典》
+
+We were very adult about it. We discussed it rationally over a drink.
+在这件事上我们表现得很成熟。我们一边喝酒一边心平气和地谈了谈。
+《柯林斯高阶英汉双解学习词典》
+
+Children under 14 must be accompanied by an adult. 
+14岁以下的儿童必须由成人陪同。
+《柯林斯高阶英汉双解学习词典》
+
+```
