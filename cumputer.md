@@ -3412,3 +3412,69 @@ He believed that the European economic community should consolidate.
 百度翻译例句库
 
 ```
+
+farewell   告别，欢送;欢送会;告别辞
+-------------------- 
+```
+farewell
+英 [ˌfeəˈwel]   美 [ˌferˈwel]  
+n.
+告别，欢送;欢送会;告别辞
+int.
+再见，再会;一路平安
+adj.
+告别的，送行的
+
+最早听到、听的最多的应该是CS中的
+
+She bade farewell to her son 
+她和儿子道了别。
+《柯林斯高阶英汉双解学习词典》
+
+He bade his wife farewell and set out on his journey. 
+他辞别了妻子便启程了。
+《汉英大词典》
+
+I have come to bid you farewell. 
+我是来向你辞行的。
+《汉英大词典》
+
+We gave him a farewell dinner. 
+我们设宴为他饯行。
+《汉英大词典》
+
+We bade him farewell. 
+我们向他告别。
+百度翻译例句库
+```
+
+
+```
+bade
+英 [beɪd]   美 [bæd, bed]  
+v.
+命令;出价，投标( bid的过去式 );恳求;说（问候话）
+
+
+I bade her goodnight. 
+我向她道了晚安。
+《柯林斯高阶英汉双解学习词典》
+
+She bade farewell to her son 
+她和儿子道了别。
+《柯林斯高阶英汉双解学习词典》
+
+He bade his wife farewell and set out on his journey. 
+他辞别了妻子便启程了。
+《汉英大词典》
+
+They bade him enter. 
+他们叫他进去。
+《汉英大词典》
+
+They all smiled at him and bade him eat 
+他们都朝他微笑，请他吃饭。
+《柯林斯高阶英汉双解学习词典》
+
+
+```
