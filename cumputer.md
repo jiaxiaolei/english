@@ -3379,3 +3379,36 @@ This is within his sphere of accountability.
 百度翻译例句库
 
 ```
+
+consolidate   合并;统一;联合
+-------------------------------
+```
+consolidate
+英 [kənˈsɒlɪdeɪt]   美 [kənˈsɑ:lɪdeɪt]  
+vt.
+统一;把…合成一体，合并;巩固，加强;合计金额
+vi.
+合并;统一;联合
+
+
+The question is: will the junta consolidate its power by force? 
+问题是：军政府会通过武力巩固其政权吗？
+《柯林斯高阶英汉双解学习词典》
+
+Judge Charles Schwartz is giving the state 60 days to disband and consolidate Louisiana's four higher education boards 
+查尔斯·施瓦茨法官将给路易斯安那州60天时间来解散然后合并该州的4个高等教育委员会。
+《柯林斯高阶英汉双解学习词典》
+
+Brydon's team-mate Martin Williamson consolidated his lead in the National League when he won the latest round. 
+布赖登的队友马丁·威廉森在最近一轮比赛中获胜，巩固了自己在全国联赛中的领先地位。
+《柯林斯高阶英汉双解学习词典》
+
+IBM, which consolidated some operations last summer, has made clear that it needs to continue to streamline them. 
+去年夏天合并了部分业务的IBM公司明确表示需要继续进行精简，以提高效率。
+《柯林斯高阶英汉双解学习词典》
+
+He believed that the European economic community should consolidate. 
+他认为欧洲经济共同体应该加强。
+百度翻译例句库
+
+```
