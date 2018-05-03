@@ -3359,3 +3359,23 @@ Comprehensive network security strategy aimed at attacking rapidly hackers and c
 www.58b.cn
 
 ```
+
+sphere  形成球体;包围，围绕;置于球面内部
+-------------------------------------
+```
+sphere
+英 [sfɪə(r)]   美 [sfɪr]  
+n.
+球（体）;（兴趣或活动的）范围;势力范围;天体，如行星或恒星
+vt.
+形成球体;包围，围绕;置于球面内部
+
+They see the region as their natural sphere of influence due to their historical links and a shared language. 
+基于历史上的联系和共同的语言，他们把该地区看成是自己天然的势力范围。
+《柯林斯高阶英汉双解学习词典》
+
+This is within his sphere of accountability. 
+这在他的责任范围之内。
+百度翻译例句库
+
+```
