@@ -3327,3 +3327,35 @@ n.
 
 
 ```
+
+cyber   计算机（网络）的，信息技术的
+----------------------------------
+```
+cyber
+英 ['saɪbə]   美 ['saɪbə]  
+adj.
+计算机（网络）的，信息技术的
+
+最早在财经郎眼听一位嘉宾提到  cyber
+
+But the cyber hackers and terrorists are not waiting about, amid this political gridlock. 
+但网络黑客和恐怖分子不会在政治僵局中等待。
+www.ftchinese.com
+
+Cyber law encompasses a wide variety of legal and political issues related to the Internet and other communications technologies. 
+在网络法包含了各种各样的法律和政治问题，关系到互联网和其他通讯技术。
+blog.sina.com.cn
+
+The signal is clear: the cyber warfare is no science fiction anymore. 
+演习发出了一个明显的信号：网络战不再是科幻小说了。
+www.i21st.cn
+
+With the high development of Internet, some kinds of cyber crime emerge.
+随着网络的快速发展，出现了一些网络犯罪。
+www.ebigear.com
+
+Comprehensive network security strategy aimed at attacking rapidly hackers and cyber fraud. 
+针对网络攻击完备的安全策略，迅速抵御黑客和网络欺诈。
+www.58b.cn
+
+```
