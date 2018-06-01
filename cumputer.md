@@ -3507,3 +3507,35 @@ Children under 14 must be accompanied by an adult.
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+eject  弹射出
+-----------
+```
+eject
+英 [iˈdʒekt]   美 [ɪ'dʒekt]  
+vt.
+喷出;驱逐;强制离开
+vi.
+弹射出
+光盘，优盘 的弹出... 
+
+
+
+Officials used guard dogs to eject the protesters 
+官员们用警犬驱散抗议人群。
+《柯林斯高阶英汉双解学习词典》
+
+He aimed his rifle, fired a single shot, then ejected the spent cartridge.
+他用步枪瞄准，射出一枚子弹，然后退出空弹壳。
+《柯林斯高阶英汉双解学习词典》
+
+The pilot ejected from the plane and escaped injury. 
+飞行员从飞机中弹出，安然无恙。
+《柯林斯高阶英汉双解学习词典》
+
+He was ejected from a restaurant. 
+他被逐出餐厅。
+《柯林斯高阶英汉双解学习词典》
+
+
+```
