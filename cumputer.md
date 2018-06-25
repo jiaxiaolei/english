@@ -3539,3 +3539,38 @@ He was ejected from a restaurant.
 
 
 ```
+
+
+noble  高尚的;贵族的;
+---------
+```
+noble
+英 [ˈnəʊbl]   美 [ˈnoʊbl]  
+adj.
+高尚的;贵族的;外表庄严和庄重的;表现出崇高的
+n.
+尊贵的人;旧时在英国使用的金币
+
+
+He was an upright and noble man who was always willing to help in any way he could 
+他是一个正直高尚的人，总是愿意尽其所能帮助他人。
+《柯林斯高阶英汉双解学习词典》
+
+Although he was of noble birth he lived as a poor man. 
+虽然他出身贵族，却过着穷人的日子。
+《柯林斯高阶英汉双解学习词典》
+
+More and more nobles made Moscow their home during Catherine's reign.
+在叶卡捷琳娜大帝统治时期，越来越多的贵族移居莫斯科。
+《柯林斯高阶英汉双解学习词典》
+
+I wanted so much to believe he was pure and noble. 
+我非常愿意相信他是纯洁高尚的。
+《柯林斯高阶英汉双解学习词典》
+
+We'll always justify our actions with noble sounding theories 
+我们总会用听起来非常高尚的理论为我们的行动辩护。
+《柯林斯高阶英汉双解学习词典》
+
+
+```
