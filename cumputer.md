@@ -3574,3 +3574,30 @@ We'll always justify our actions with noble sounding theories
 
 
 ```
+
+
+auto-negotiate	 网络	自动适应;
+----------
+```
+negotiate
+英 [nɪˈgəʊʃieɪt]   美 [nɪˈgoʊʃieɪt]  
+vi.
+谈判，协商，交涉
+vt.
+谈判达成;成功越过;议价出售
+
+
+It is not clear whether the president is willing to negotiate with the democrats 
+还不清楚总统是否愿意和民主人士洽谈。
+《柯林斯高阶英汉双解学习词典》
+
+Frank Mariano negotiates the desert terrain in his battered pickup 
+弗兰克·马里亚诺驾驶他那辆破烂不堪的皮卡车成功穿越了沙漠地带。
+《柯林斯高阶英汉双解学习词典》
+
+When you have two adversaries negotiating, you need to be on neutral territory 
+让敌对双方坐下来谈判时，你得保持中立。
+《柯林斯高阶英汉双解学习词典》
+
+
+```
