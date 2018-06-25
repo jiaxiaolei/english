@@ -3601,3 +3601,15 @@ When you have two adversaries negotiating, you need to be on neutral territory
 
 
 ```
+
+NIC 网卡...
+-----------
+```
+NIC
+
+网卡(Network Interface Card，简称NIC)，也称网络适配器，是电脑与局域网相互连接的设备。无论是普通电
+WY545F intel82545 PCI光纤网卡
+WY545F intel82545 PCI光纤网卡
+脑还是高端服务器，只要连接到局域网，就都需要安装一块网卡。如果有必要，一台电脑也可以同时安装两块或多块网卡。
+
+```
