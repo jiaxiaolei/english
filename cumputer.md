@@ -3690,3 +3690,37 @@ Lufthansa had originally planned to hive off its domestic operations into a subs
 汉莎航空公司本来计划将其国内业务分立出去，成立一个子公司“汉莎运通”。
 
 ```
+
+experimental  试验性的东西
+---------------------------
+```
+experimental
+英 [ɪkˌsperɪˈmentl]   美 [ɪkˌspɛrəˈmɛntl]  
+adj.
+实验的;根据实验的;试验性的
+n.
+试验性的东西
+
+
+He tends to write bizarre and highly experimental pieces of music 
+他倾向于创作高度试验性而且风格奇异的音乐作品。
+《柯林斯高阶英汉双解学习词典》
+
+We have experimental and observational evidence concerning things which happened before and after the origin of life. 
+有关生命起源前后发生了什么，我们通过实验和观察得出了一些证据。
+《柯林斯高阶英汉双解学习词典》
+
+The British Sports Minister is reported to be ready to argue for an experimental lifting of the ban. 
+据报道，英国体育大臣准备争取试行取消那条禁令。
+《柯林斯高阶英汉双解学习词典》
+
+The technique is experimental, but the list of its practitioners is growing.
+这种技术是试验性的，但是采用它的人正在增加。
+《柯林斯高阶英汉双解学习词典》
+
+The experimental farm is near the waterpower station. 
+实验农场靠近水电站。
+《汉英大词典》
+
+
+```
