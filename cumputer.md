@@ -3657,3 +3657,36 @@ The workers were glorying in their new-found freedom
 《柯林斯高阶英汉双解学习词典》
 
 ```
+
+subsidiary  附带的，附属的，次要的;
+-----------
+```
+subsidiary
+英 [səbˈsɪdiəri]   美 [səbˈsɪdieri]  
+adj.
+附带的，附属的，次要的;助的，帮助的;补足的
+n.
+附属事物，附属机构，子公司;附属者，附属品
+
+
+
+
+The economics ministry has increasingly played a subsidiary role to the finance ministry. 
+
+经济部已经越来越成了财政部的附属了。
+
+《柯林斯高阶英汉双解学习词典》
+
+
+The Locomotive Construction Company Ltd is a wholly-owned subsidiary of the Trust. 
+
+机车建筑有限公司是该托拉斯的全资子公司。
+
+《柯林斯高阶英汉双解学习词典》
+
+
+Lufthansa had originally planned to hive off its domestic operations into a subsidiary, Lufthansa Express. 
+
+汉莎航空公司本来计划将其国内业务分立出去，成立一个子公司“汉莎运通”。
+
+```
