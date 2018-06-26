@@ -3613,3 +3613,47 @@ WY545F intel82545 PCI光纤网卡
 脑还是高端服务器，只要连接到局域网，就都需要安装一块网卡。如果有必要，一台电脑也可以同时安装两块或多块网卡。
 
 ```
+
+glory 光荣，荣誉;壮观，壮丽;
+-----------
+```
+glory
+英 [ˈglɔ:ri]   美 [ˈɡlɔri, ˈɡlori]  
+n.
+光荣，荣誉;壮观，壮丽;（对上帝的）赞颂;非常美的事物
+vi.
+得意，自豪;骄傲
+
+
+
+Walsham had his moment of glory when he won a 20km race. 
+
+沃尔沙姆夺得20公里比赛冠军的那一刻无比荣耀。
+
+《柯林斯高阶英汉双解学习词典》
+
+The album sees them reliving past glories but not really breaking any new ground. 
+
+这张专辑使他们重温了昔日的辉煌，但实际上没有任何新的突破。
+
+《柯林斯高阶英汉双解学习词典》
+
+The glory of the idea blossomed in his mind. 
+
+在他的脑海中这一想法变得越来越宏大。
+
+《柯林斯高阶英汉双解学习词典》
+
+One of the glories of the island has always been its bird population.
+
+鸟儿的数量一直是该岛的一大骄傲。
+
+《柯林斯高阶英汉双解学习词典》
+
+The workers were glorying in their new-found freedom 
+
+工人们因才获得的自由而无比喜悦。
+
+《柯林斯高阶英汉双解学习词典》
+
+```
