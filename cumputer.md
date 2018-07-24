@@ -3724,3 +3724,44 @@ The experimental farm is near the waterpower station.
 
 
 ```
+
+```
+curious
+英 [ˈkjʊəriəs]   美 [ˈkjʊriəs] 
+
+adj.
+好奇的;奇妙的; 好求知的; 稀奇的
+
+
+Steve was intensely curious about the world I came from 
+
+史蒂夫非常想了解我以前生活的那个世界。
+
+《柯林斯高阶英汉双解学习词典》
+
+There is a curious thing about her writings in this period 
+
+她在这期间的著作与以往有所不同。
+
+《柯林斯高阶英汉双解学习词典》
+
+Children are naturally curious. 
+
+孩子天生好奇。
+
+《柯林斯高阶英汉双解学习词典》
+
+The pageant promises to be a curious mixture of the ancient and modern 
+
+游行盛典将会是古老与现代的奇特融合。
+
+《柯林斯高阶英汉双解学习词典》
+
+The naval high command's response to these developments is rather curious. 
+
+海军最高指挥部对这些进展的回应十分反常。
+
+《柯林斯高阶英汉双解学习词典》
+
+
+```
