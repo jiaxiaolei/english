@@ -3765,3 +3765,81 @@ The naval high command's response to these developments is rather curious.
 
 
 ```
+
+
+
+masquerade   伪装;化装舞会;掩饰
+----------------------------
+```
+
+masquerade
+英 [ˌmæskəˈreɪd]   美 [ˌmæskəˈred]  
+n.
+伪装;化装舞会;掩饰
+vi.
+伪装;假扮;乔装;冒充
+
+
+He masqueraded as a doctor and fooled everyone. 
+
+他冒充医生，骗过了所有人。
+
+《柯林斯高阶英汉双解学习词典》
+
+
+He told a news conference that the elections would be a masquerade. 
+
+他在新闻发布会上说选举将是一场骗人的把戏。
+
+《柯林斯高阶英汉双解学习词典》
+```
+
+
+shelve  将…搁在一边 
+-------------
+```
+shelve
+英 [ʃelv]   美 [ʃɛlv]  
+vt.
+将（书等）放置在架子上;将…搁在一边;装搁架于;罢免
+vi.
+（陆地）逐渐倾斜
+
+
+Atlanta has shelved plans to include golf in the 1996 Games 
+
+亚特兰大已搁置了将高尔夫球纳入1996年奥运会的计划。
+
+《柯林斯高阶英汉双解学习词典》
+
+The shoreline shelves away steeply. 
+
+海岸线顺势陡直而下。
+
+《柯林斯高阶英汉双解学习词典》
+
+Sadly, the project has now been shelved. 
+
+不幸的是，计划现在已经搁浅。
+
+《柯林斯高阶英汉双解学习词典》
+
+They shelve the letters and do not give them due consideration.
+
+他们把信件压起来，不加处理。
+
+《汉英大词典》
+
+Shelve this matter for a few days. 
+
+这事儿先压几天再说。
+
+百度翻译例句库
+
+
+
+Shelve Instance：
+
+废弃实例
+
+```
