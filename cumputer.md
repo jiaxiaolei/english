@@ -3843,3 +3843,39 @@ Shelve Instance：
 废弃实例
 
 ```
+
+倍数
+---------
+```
+double 
+ 英  ['dʌb(ə)l]   美  ['dʌbl]
+n. 两倍；双精度型
+adj. 双重的；两倍的
+vi. 加倍，加倍努力；快步走
+
+
+triple 
+ 英  ['trɪp(ə)l]   美  ['trɪpl]
+adj. 三倍的；三方的
+n. 三倍数；三个一组
+
+
+
+fourfold 
+ 英  ['fɔːfəʊld]   美  ['fɔrfold]
+adj. 四倍的；四重的；四垒的
+adv. 四倍；四重
+
+
+five-fold 
+['faivfəud] 
+五倍
+
+
+
+sixfold 
+ 英  ['sɪksfəʊld]
+adj. 六倍的；六重的，有六部分的
+
+
+```
