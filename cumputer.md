@@ -3877,5 +3877,40 @@ sixfold
  英  ['sɪksfəʊld]
 adj. 六倍的；六重的，有六部分的
 
+```
+
+
+guild 同业公会;行会，协会;
+--------------------------
+```
+guild
+英 [gɪld]   美 [ɡɪld]  
+n.
+同业公会;行会，协会;[植]依赖植物集团
+na.
+“gild”的变体
+
+
+I belong to a guild of wine butlers. 
+
+我属于主管酒水的男仆同业公会。
+
+百度翻译例句库
+
+以下例句来源于网络，仅供参考
+2
+No, more like EQ's guild system. 
+
+不，和EQ的工会系统很接近。
+
+bbs.ngacn.cc
+
+3
+Then the guild dismissed. 
+
+然后公会解散了。
+
+bbs.ngacn.cc
+
 
 ```
