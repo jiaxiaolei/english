@@ -1,6 +1,6 @@
 
 
-
+```
 
 van
 英 [væn]   美 [væn]  
@@ -229,3 +229,43 @@ We should make decisions in accordance with specific conditions.
 Clause 4. The Company shall deliver 2 vans to the condominium juristic person. 
 The services to provide shall be in accordance with the discretion of the condominium juristic person.
 
+
+
+
+deduct
+英 [dɪˈdʌkt]   美 [dɪˈdʌkt]  
+vt.
+演绎;扣除，减去
+
+
+The cost of your uniform will be deducted from your wages.
+
+制服费将从你的工资中扣除。
+
+Ten points will be deducted for a wrong answer.
+
+答错一题扣十分。
+
+
+
+comply with
+英 [kəmˈplai wið]   美 [kəmˈplaɪ wɪð]  
+顺应;服从，遵从;应;照办
+
+
+
+You must comply with her request. 
+她的要求你应照办。
+《汉英大词典》
+
+
+The commander said that the army would comply with the ceasefire 
+指挥官说军队会遵守停火协议。
+
+
+The baby is not willing to comply with her mamma's words. 
+这孩子不依她母亲的话。
+
+
+
+```
