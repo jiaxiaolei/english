@@ -3914,3 +3914,33 @@ bbs.ngacn.cc
 
 
 ```
+
+shore 岸;滨;国家（
+--------------
+```
+shore
+英 [ʃɔ:(r)]   美 [ʃɔr, ʃor]  
+n.
+岸;滨;国家（尤指濒海国家）;支柱
+vt.
+支撑;支持
+
+
+to swim from the boat to the shore 
+
+下船游上岸
+
+a house on the shores of the lake
+
+湖畔的房子
+
+The ship was anchored off shore .
+
+船停泊在离岸不远的地方。
+
+
+offshore account
+离岸账户...
+
+
+```
