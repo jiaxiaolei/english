@@ -64,3 +64,73 @@ Each element can consist of a comma-delimited list, a hyphenated range, or a sin
 每个元素可以由一个以逗号分隔开的列表组成，或者由一个用连字符连接的范围组成，或者单独由一项组成。
 
 ```
+
+
+strip out   剥除 
+----------------
+```
+strip out
+剥除
+
+
+Strip out all that is unnecessary. 
+
+剥离所有不必要的设置与功能。
+
+
+
+strip
+英 [strɪp]   美 [strɪp]  
+vi.
+剥光;表演脱衣舞;剥除
+vt.
+除去，剥去;剥夺;删除;清除，拆除
+n.
+长条，条板;带状地带（或森林、湖面等）;（足球队员的）运动服
+
+
+They stripped completely, and lay in the damp grass 
+
+他们脱光衣服，躺在潮湿的草地上。
+
+《柯林斯高阶英汉双解学习词典》
+
+4
+One prisoner claimed he'd been dragged to a cell, stripped and beaten. 
+
+一名犯人声称他曾被拖进一间牢房，全身被脱光并遭到毒打。
+
+《柯林斯高阶英汉双解学习词典》
+
+5
+After Mike left for work I stripped the beds and vacuumed the carpets
+
+迈克去上班后，我扯下了床罩并用吸尘器清扫地毯。
+
+
+
+He was stripped naked and left in a cell.
+
+他被扒得一丝不挂，丢在一间牢房里。
+
+
+
+[V] I stripped and washed myself all over.
+
+我脱掉衣服，把全身洗了洗。
+
+We stripped off and ran down to the water.
+
+我们脱掉衣服，跑进水里。
+
+She stripped down to her underwear.
+
+她把衣服脱得只剩下了内衣
+
+
+来源：
+We've stripped out most of the comments in the example file to make it more succinct (comments are the lines prefixed with a #).
+
+
+
+```
