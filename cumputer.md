@@ -3995,3 +3995,60 @@ Each has his merits.
 
 
 ```
+
+
+```
+
+
+scenario
+英 [səˈnɑ:riəʊ]   美 [səˈnærioʊ]  
+n.
+（行动的）方案;剧情概要;分镜头剧本
+
+
+In the worst-case scenario, you could become a homeless person 
+最坏的情况是你可能会无家可归。
+《柯林斯高阶英汉双解学习词典》
+
+Try to imagine all the possible scenarios and what action you would take.
+努力想象所有可能出现的情况并考虑一下你会采取什么行动。
+《柯林斯高阶英汉双解学习词典》
+
+Discovering your child takes drugs is a nightmare scenario for most parents. 
+对大多数父母来说，发现自己的孩子吸毒简直就是场噩梦。
+```
+
+
+```
+aggregation
+英 [ˌæɡrɪ'ɡeɪʃn]   美 [ˌæɡrɪˈɡeʃən]  
+n.
+聚集;集结;集成;聚集体
+
+The people are a sea of wisdom and the aggregation of strength. 
+人民是智慧的海洋、力量的总汇。
+
+
+
+composition
+英 [ˌkɒmpəˈzɪʃn]   美 [ˌkɑ:mpəˈzɪʃn]  
+n.
+作文，作曲;创作;构图，布置;妥协，和解
+
+
+
+Television has transformed the size and social composition of the audience at great sporting occasions 
+电视改变了重大体育赛事观众的规模和其社会阶层构成结构。
+《柯林斯高阶英汉双解学习词典》
+2
+Mozart's compositions are undoubtedly amongst the world's greatest.
+莫扎特的作品无疑位居世界上最伟大的作品之列。
+《柯林斯高阶英汉双解学习词典》
+3
+He taught the piano, organ and composition 
+他教授钢琴、管风琴和作曲。
+
+
+
+
+```
