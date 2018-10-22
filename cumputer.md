@@ -3944,3 +3944,54 @@ offshore account
 
 
 ```
+
+```
+
+quota
+英 [ˈkwəʊtə]   美 [ˈkwoʊtə]  
+n.
+配额;指标;（正式限定的）定量，定额
+
+
+The quota of four tickets per person had been reduced to two. 
+每人可购买的票的限额已经由四张降至两张。
+《柯林斯高阶英汉双解学习词典》
+
+2
+The bill would force employers to adopt a quota system when recruiting workers.
+该法案将迫使雇主在招聘工人时采取限额制度。
+《柯林斯高阶英汉双解学习词典》
+
+3
+They have the usual quota of human weaknesses, no doubt. 
+毫无疑问，他们身上也有人所共有的弱点。
+《柯林斯高阶英汉双解学习词典》
+
+4
+The production group has overfulfilled the quota today. 
+今天，这个生产小组超额完成了定额。
+《汉英大词典》
+
+5
+The quota of immigrants for this year has already been filled. 
+本年度的移民限额已满。
+```
+
+```
+merits
+英 ['merɪts]   美 ['merɪts]  
+n.
+长处;[宗教]（行善得到的）功德( merit的名词复数 );功勋;荣誉
+v.
+值得，应获得( merit的第三人称单数 );[宗教]（因行善而）应得（善报）;应受赏（或罚），应受报答;[宗教]积德
+
+One's merits outweigh one's short-comings. 
+功大于过。
+
+
+Each has his merits. 
+各人有各人的优点。
+
+
+
+```
