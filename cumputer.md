@@ -4052,3 +4052,61 @@ He taught the piano, organ and composition
 
 
 ```
+
+elaborate 
+-------
+```
+
+elaborate
+英 [ɪˈlæbərət]   美 [ɪˈlæbəret]  
+vi.
+详尽说明;变得复杂
+vt.
+详细制定;详尽阐述;[生理学]加工;尽心竭力地做
+adj.
+精心制作的;精巧的;复杂的;（结构）复杂的
+
+He is known for his elaborate costumes. 
+他以着装精致而闻名。
+《柯林斯高阶英汉双解学习词典》
+
+His task was to elaborate policies which would make a market economy compatible with a clean environment. 
+他的任务是制定详细政策，使得市场经济和清洁环境能够共存。
+《柯林斯高阶英汉双解学习词典》
+
+A spokesman declined to elaborate on a statement released late yesterday
+发言人拒绝对昨天晚些时候发表的声明详加说明。
+
+
+aside from
+英 [əˈsaid frɔm]   美 [əˈsaɪd frʌm]  
+除…之外;既…又…;暂置不论
+
+
+Your talk is a little aside from the subject of our disussion. 
+你的发言稍微偏离了我们讨论会的主题。
+《汉英大词典》
+
+Ireland stood aside from this conflict 
+爱尔兰没有介入这次冲突。
+《柯林斯高阶英汉双解学习词典》
+
+Aside from the little savings I have no other money. 
+除了这点儿储蓄我再也没有钱了。
+
+
+
+actual
+英 [ˈæktʃuəl]   美 [ˈæktʃuəl]  
+adj.
+实际的;真实的;现行的;现在的
+
+The segments are filmed using either local actors or the actual people involved 
+这些片断是由当地的演员或真实的当事人参与拍摄的。
+《柯林斯高阶英汉双解学习词典》
+
+She had compiled pages of notes, but she had not yet gotten down to doing the actual writing 
+她已编写了数页注释，但还未开始真正意义上的写作。
+
+
+```
