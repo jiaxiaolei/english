@@ -4110,3 +4110,32 @@ She had compiled pages of notes, but she had not yet gotten down to doing the ac
 
 
 ```
+
+depressing   令人忧愁的 
+---------------------
+```
+depressing
+英 [dɪˈpresɪŋ]   美 [dɪˈprɛsɪŋ]  
+adj.
+令人忧愁的，使人沮丧的;使情绪低落的
+adv.
+令人忧愁地，使人沮丧地
+n.
+压抑，郁闷
+v.
+压下( depress的现在分词);使愁苦;降低（价格）;使跌价
+
+
+
+Yerday's unemployment figures were depressing 
+昨天的失业数字令人沮丧。
+《柯林斯高阶英汉双解学习词典》
+
+I'm rather keen to go on holiday in February because I think it's a very dismal, depressing month. 
+我很想2月份去度假，因为我觉得那是一个非常阴沉惨淡、令人抑郁的月份。
+《柯林斯高阶英汉双解学习词典》
+
+All in all, it appeared that a pretty depressing summer awaited Jones.
+总之，等待琼斯的似乎是一个相当令人沮丧的夏天。
+
+```
