@@ -1,3 +1,29 @@
+
+universe 宇宙;天地万物
+--------------------
+```
+universe
+英 [ˈju:nɪvɜ:s]   美 [ˈju:nɪvɜ:rs]  
+n.
+宇宙;天地万物; 经验领域
+
+
+
+Einstein's equations showed the Universe to be expanding 
+爱因斯坦的方程式表明宇宙正在膨胀。
+《柯林斯高阶英汉双解学习词典》
+
+Good writers suck in what they see of the world, recreating their own universe on the page 
+优秀的作家从他们眼中的世界汲取体验，然后在纸上重塑自己的天地。
+《柯林斯高阶英汉双解学习词典》
+
+According to my friends I am the coolest, thinnest, cleverest, funniest journalist in the universe. 
+我的朋友说我是全天下最酷、最瘦、最聪明、最幽默的记者。
+
+
+```
+
+
 含糊不清
 ------
 ```
