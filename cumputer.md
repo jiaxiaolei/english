@@ -4139,3 +4139,43 @@ All in all, it appeared that a pretty depressing summer awaited Jones.
 总之，等待琼斯的似乎是一个相当令人沮丧的夏天。
 
 ```
+
+hostage  人质;抵押品 
+--------------------
+```
+hostage
+英 [ˈhɒstɪdʒ]   美 [ˈhɑ:stɪdʒ]  
+n.
+人质;抵押品
+
+
+
+It is hopeful that two hostages will be freed in the next few days. 
+有两名人质可望在几天后获释。
+《柯林斯高阶英汉双解学习词典》
+
+He was taken hostage while on his first foreign assignment as a television journalist. 
+他第一次作为电视记者出国采访时就被扣作人质。
+
+
+
+lethal
+英 [ˈli:θl]   美 [ˈliθəl]  
+adj.
+致命的，致死的;能致命的;破坏性的;有害的
+n.
+致死因子
+
+
+High-powered cars are lethal weapons in the hands of inexperienced drivers 
+马力大的汽车到了缺乏经验的司机手中便成了毁灭性的武器。
+《柯林斯高阶英汉双解学习词典》
+
+Frost and wet are the lethal combination for plants. 
+霜雨天气对植物危害极大。
+《柯林斯高阶英汉双解学习词典》
+
+Someone had fed him a lethal dose of cyanide 
+有人给他下了致命剂量的氰化物。
+
+```
