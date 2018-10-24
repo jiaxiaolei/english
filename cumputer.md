@@ -4205,3 +4205,44 @@ Someone had fed him a lethal dose of cyanide
 有人给他下了致命剂量的氰化物。
 
 ```
+
+architect 
+------------
+```
+architect
+英 [ˈɑ:kɪtekt]   美 [ˈɑ:rkɪtekt]  
+n.
+建筑师，设计师;创造者，缔造者;造物主
+
+
+An art historian and collector, he was also a practising architect. 
+他身为艺术历史学家和收藏家，同时也是一名从业建筑师。
+《柯林斯高阶英汉双解学习词典》
+
+Today's complex buildings require close teamwork between the architect and the builders. 
+如今的建筑结构复杂，需要建筑师和施工人员密切协作。
+
+
+安装UML工具: EA(Enterprise Architect)
+
+
+
+consultant
+英 [kənˈsʌltənt]   美 [kənˈsʌltənt]  
+n.
+（受人咨询的）顾问;会诊医生，（顾问）医生;求教者，（与人）商议者，征求意见者，查阅者，咨询者
+
+
+He was a consultant to the Swedish government. 
+他是瑞典政府顾问。
+《柯林斯高阶英汉双解学习词典》
+
+Each specialist consultant has a team of doctors under him 
+每位会诊专家手下都有一组医生。
+《柯林斯高阶英汉双解学习词典》
+
+He set up shop as an independent PR consultant 
+他自己开公司，做起了独立公共关系顾问。
+
+
+```
