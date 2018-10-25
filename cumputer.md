@@ -1,3 +1,77 @@
+vagina   阴道
+--------------
+```
+vagina
+英 [vəˈdʒaɪnə]   美 [vəˈdʒaɪnə]  
+n.
+[解]阴道;[植]叶鞘
+
+
+Something is the matter with your vagina. 
+你的“小妹妹”有点问题了。
+
+Then I suggest that you don't let him examine your vagina. 
+那么我建议你不要让他检查你的阴道。
+
+
+Millions of sperm entering the vagina and swim towards the opening of the cervix. 
+数百万的精子进入阴道游向子宫颈开口。
+
+
+It's the muscle that surrounds the entire vagina. 
+它是包裹着整个阴道的肌肉。
+
+
+
+
+sperm
+英 [spɜ:m]   美 [spɜ:rm]  
+n.
+精子;精液;鲸蜡油
+
+Conception occurs when a single sperm fuses with an egg. 
+受孕发生在单个精子与卵子结合的时候。
+
+
+
+My husband had a very low sperm count. 
+我丈夫的精子数很低。
+
+
+It only takes one sperm to fertilize an egg. 
+只需要一个精子就能让卵子受精。
+
+
+
+
+conception
+英 [kənˈsepʃn]   美 [kənˈsɛpʃən]  
+n.
+概念;受精，怀孕;胚胎;设想，构想
+
+
+
+My conception of a garden was based on gardens I had visited in England
+我对花园的概念是基于我在英格兰观赏过的花园。
+《柯林斯高阶英汉双解学习词典》
+
+The symphony is admirable in conception 
+这支交响乐的构思好极了。
+《柯林斯高阶英汉双解学习词典》
+
+Six weeks after conception your baby is the size of your little fingernail
+怀孕6个星期后，胎儿的大小相当于小拇指的指甲。
+《柯林斯高阶英汉双解学习词典》
+
+I see him as someone with not the slightest conception of teamwork.
+我认为他丝毫没有团队意识。
+《柯林斯高阶英汉双解学习词典》
+
+The other fundamental consideration in the conception of a plan is function.
+在构思设计图时要考虑的另一个基本因素是功能。
+
+
+```
 
 universe 宇宙;天地万物
 --------------------
