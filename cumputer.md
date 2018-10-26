@@ -1,3 +1,57 @@
+
+scalable 可攀登的，可升级的
+--------
+```
+scalable
+英 ['skeɪləbl]   美 ['skeɪləbəl]  
+adj.
+可攀登的，可升级的
+
+
+Cloud computing and grid computing are scalable. 
+云计算和网格计算都是可伸缩的。
+
+
+
+WebSphere Application Server provides a robust and scalable environment for transaction processing and for managing connections to resource providers. 
+WebSphere Application Server为事务处理和管理与资源提供者的连接提供了一个稳健和可伸缩的环境。
+
+
+
+Liux is scalable, flexible, and extensible from subsystems such as this.
+Linux具有很大的可伸缩性和灵活性，并且可以从子系统进行扩展。
+
+
+
+repository
+英 [rɪˈpɒzətri]   美 [rɪˈpɑ:zətɔ:ri]  
+n.
+仓库;贮藏室;博物馆;亲信
+
+
+
+A church in Moscow became a repository for police files. 
+莫斯科的一座教堂成为警方存放档案的地点。
+《柯林斯高阶英汉双解学习词典》
+
+The repository of all important knowledge in a small town was the chief barman of the local pub. 
+小镇上最无所不知的人就是当地酒吧里的服务员领班。
+《柯林斯高阶英汉双解学习词典》
+以下例句来源于网络，仅供参考
+
+The asset repository and management is also centrally funded and managed. 
+资产库和管理也同样由中心资助和管理。
+www.ibm.com
+
+Now on to basic operations with this repository. 
+此时我们就可以对这个仓库进行一些基本的操作了。
+www.ibm.com
+
+Add the files and directories in your project to your new Git repository.
+将项目中的文件和目录添加到新的Git存储库。
+
+```
+
 vagina   阴道
 --------------
 ```
