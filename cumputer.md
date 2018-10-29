@@ -1,3 +1,49 @@
+carbon copy  复写本，副本 
+--------------------------
+```
+carbon copy
+英 [ˈkɑ:bən ˈkɔpi]   美 [ˈkɑrbən ˈkɑpi]  
+n.
+复写本，副本
+
+
+She's a carbon copy of her mother 
+她和她妈妈就像是一个模子里刻出来的。
+《柯林斯高阶英汉双解学习词典》
+
+Theresa's first marriage was almost a carbon copy of her parents '. 
+特雷莎的第一次婚姻简直就是她父母婚姻的翻版。
+
+```
+
+cryptic 神秘的;隐藏的;
+--------------------
+```
+cryptic
+英 [ˈkrɪptɪk]   美 [ˈkrɪptɪk]  
+adj.
+神秘的;隐藏的;有隐含意义的;使用密码的
+
+
+He has issued a short, cryptic statement denying the spying charges 
+他发表了一个简短隐晦的声明，否认对其间谍行为的指控。
+《柯林斯高阶英汉双解学习词典》
+
+
+My father's notes are more cryptic here. 
+
+父亲的这段笔记更加晦涩难懂。
+
+《柯林斯高阶英汉双解学习词典》
+
+
+A surprising feature of the higher fungi, in the small sample available, is the number of cryptic or sibling species. 
+
+在合用的小样本中高等真菌的一种惊奇性状是同形种或姊妹种的数量。
+
+
+```
+
 
 scalable 可攀登的，可升级的
 --------
