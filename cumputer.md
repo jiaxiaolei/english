@@ -1,3 +1,28 @@
+
+concurrency  并发（性） 
+---------------------
+```
+concurrency
+英 [kən'kʌrənsɪ]   美 [kən'kʌrənsɪ]  
+n.
+并发（性）
+
+
+To improve concurrency, DB2 and IDS use a combination of locks and isolation levels. 
+为改善并发性，DB2和IDS结合使用了锁和隔离级别。
+
+
+combination
+英 [ˌkɒmbɪˈneɪʃn]   美 [ˌkɑ:mbɪˈneɪʃn]  
+n.
+结合;联合体;密码组合;连裤内衣
+
+
+A combination of talent, hard work and good looks have taken her to the top
+兼具天赋、勤奋和美貌使她得以出人头地。
+
+```
+
 carbon copy  复写本，副本 
 --------------------------
 ```
