@@ -1,4 +1,25 @@
 
+nonce  现时，目前
+----------------
+```
+nonce
+英 [nɒns]   美 [nɑ:ns]  
+n.
+现时，目前
+
+
+Web service producers should reject any UsernameToken not using both nonce and creation timestamps. 
+
+Web服务生产者应拒绝任何没有同时使用nonce和创建时间戳的UsernameToken。
+
+www.ibm.com
+
+By adding a nonce, you can distinguish between the same messages sent more than one time. 
+
+通过添加现时标志，就可以对多次发送的相同消息加以区分了。
+
+```
+
 concurrency  并发（性） 
 ---------------------
 ```
