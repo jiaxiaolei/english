@@ -1,3 +1,48 @@
+approved  经核准的，被认可的
+---------------------------
+```
+approved
+英 [ə'pru:vd]   美 [ə'pru:vd]  
+adj.
+经核准的，被认可的
+v.
+批准;认可;核准;赞成，同意( approve的过去式和过去分词 )
+
+
+The congress approved the budget. 
+国会批准了国家预算。
+
+
+I approved of the proposal. 
+我赞成该提案。
+```
+
+```
+budget
+英 [ˈbʌdʒɪt]   美 [ˈbʌdʒɪt]  
+n.
+预算;预算案;预算拨款;一束
+vt.& vi.
+把…编入预算;谨慎花钱
+adj.
+价格低廉的;花钱少的;收费合理的;便宜的
+vt.
+在预算中拨款给;按预算拨（款）;按预算来计划（或安排）;规划
+vi.
+做安排(for)
+
+
+
+She will design a fantastic new kitchen for you — and all within your budget 
+她将为你设计一个超级棒的新厨房，而且绝不会超出你的预算。
+
+
+
+The company has budgeted$ 10 million for advertising 
+公司已经做了1,000万美元的广告预算。
+
+
+```
 
 nonce  现时，目前
 ----------------
