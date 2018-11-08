@@ -1,3 +1,63 @@
+
+cumbersome   笨重的;麻烦的;累赘的，难以携带的; 
+-------
+```
+cumbersome
+英 [ˈkʌmbəsəm]   美 [ˈkʌmbərsəm]  
+adj.
+笨重的;麻烦的;累赘的，难以携带的;缓慢复杂的，冗长的
+
+
+
+Although the machine looks cumbersome, it is actually easy to use. 
+尽管这台机器看上去很笨重，操作起来却很容易。
+
+The proposed regulations are ill-defined and cumbersome and could be unnecessarily costly. 
+提议的规章制度阐述不清、复杂低效，而且可能会带来不必要的过高花费。
+
+The furniture is too cumbersome to move. 
+家具太笨，搬起来很不方便。
+
+They're making efforts to streamline their normally cumbersome bureaucracy
+他们正努力精简本来繁冗复杂的官僚体制。
+
+Our Intelligence Service was untrained, cumbersome, and almost wholly ineffectual. 
+我们的情报部门人员缺乏训练，机构臃肿，简直毫无用处。
+```
+
+bandwidth  带宽
+---------------
+```
+bandwidth
+英 [ˈbændwɪdθ]   美 [ˈbændˌwɪdθ, -ˌwɪθ]  
+n.
+带宽
+At the same time, network bandwidth and reliability improved and became less expensive. 
+与此同时，网络带宽和可靠性提高了并且没那么昂贵了。
+```
+
+```
+idempotent
+英 [aɪ'dempətənt]   美 [aɪ'dempətənt]  
+n.
+幂等，等幂
+adj.
+幂等的
+
+
+compound
+英 [ˈkɒmpaʊnd]   美 [ˈkɑ:mpaʊnd]  
+n.
+复合物;场地;（筑有围墙的）院子;复合词
+vt.
+调和;使混合;使严重;调停
+adj.
+复合;[语法学]（句子）复合的;合成的;多功能的
+vi.
+妥协;和解;达成协议;（通过妥协）解决债务、主权等
+
+```
+
 inherit 继承
 ------------
 ```
