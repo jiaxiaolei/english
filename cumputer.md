@@ -1,3 +1,41 @@
+inherit 继承
+------------
+```
+inherits
+v.
+继承( inherit的第三人称单数 );经遗传获得（品质、身体特征等）接替（责任等），继任
+
+
+We think that Mary inherits her blue eyes from her father. 
+我们认为玛丽的蓝眼睛是她父亲遗传的。
+```
+
+explicit  明确的，清楚的;
+------------------------
+```
+explicit
+英 [ɪkˈsplɪsɪt]   美 [ɪkˈsplɪsɪt]  
+adj.
+明确的，清楚的;直言的;详述的;不隐瞒的
+
+
+
+Criticism is hinted at, but never made explicit 
+批评总是含沙射影，但从未明说。
+《柯林斯高阶英汉双解学习词典》
+
+We are quite explicit about political affairs. 
+我们对政治问题态度十分明朗。
+
+
+Facing same issue!
+遇到同样的问题。
+
+any solution?
+有解决方案吗？
+
+```
+
 approved  经核准的，被认可的
 ---------------------------
 ```
