@@ -1,4 +1,27 @@
 
+substantial  本质;重要材料
+----------------
+```
+substantial
+英 [səbˈstænʃl]   美 [səbˈstænʃəl]  
+adj.
+大量的;结实的，牢固的;重大的
+n.
+本质;重要材料
+
+he party has just lost office and with it a substantial number of seats
+该党刚刚竞选失利，同时还失去了许多席位。
+《柯林斯高阶英汉双解学习词典》
+
+That is a very substantial improvement in the present situation. 
+在当前形势下这是一个非常巨大的进步。
+《柯林斯高阶英汉双解学习词典》
+
+He made substantial donations to charity 
+他为慈善事业捐了很多钱。
+```
+
+
 cumbersome   笨重的;麻烦的;累赘的，难以携带的; 
 -------
 ```
