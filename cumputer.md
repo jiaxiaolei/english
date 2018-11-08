@@ -19,6 +19,14 @@ She dedicated her first album to Woody Allen
 This book is dedicated to the memory of my mother. 
 谨以此书献给我已故的母亲。
 
+China will continue to be dedicated to international cooperation in this area.
+中国将继续致力于加强在该领域的国际合作。
+www.hxen.com
+
+
+Welcome new and old customers contact with the company, we will be dedicated to you. 
+欢迎新老客户与公司联系，我们将热诚为您服务。
+
 ```
 
 
