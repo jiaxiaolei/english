@@ -1,4 +1,23 @@
 
+prerequisite  先决条件，前提，必要条件
+------------------------------
+```
+prerequisite
+英 [ˌpri:ˈrekwəzɪt]   美 [priˈrɛkwɪzɪt]  
+n.
+先决条件，前提，必要条件
+adj.
+必须先具备的，必要的;先决条件的
+
+Good self-esteem is a prerequisite for a happy life 
+良好的自尊是幸福生活的前提。
+
+Social order and stability is a prerequisite to social development. 
+安定有序是社会发展的先决条件。
+
+
+```
+
 dedicate  奉献，献身;
 ---------------------
 ```
