@@ -1,4 +1,134 @@
 
+academics  学习，学术;学者;大学教师；
+------------------------------------
+```
+
+academics
+英 [ækə'demɪks]   美 [ækə'demɪks]  
+n.
+学习，学术;学者( academic的名词复数 );
+大学教师;[复数]（院校的）学术活动;[A-]柏拉图哲学信奉者
+
+
+I noticed that most academics were writing papers during the summer
+我注意到大部分学者暑期都在写论文。
+
+
+religions
+英 [rɪ'lɪdʒənz]   美 [rɪ'lɪdʒənz]  
+n.
+教派;宗教( religion的名词复数 );支配自己生活的大事
+
+Unless you respect other people's religions, horrible mistakes and conflict will occur. 
+如果不尊重别人的宗教信仰，就会祷下大错，酿成冲突。
+
+
+evident
+英 [ˈevɪdənt]   美 [ˈɛvɪdənt]  
+adj.
+明显的，明白的;昭著;彰
+
+
+
+His footprints were clearly evident in the heavy dust 
+厚厚的尘土中他的脚印清晰易见。
+《柯林斯高阶英汉双解学习词典》
+2
+It was evident that she had once been a beauty 
+显然她曾是个美人儿。
+
+
+
+
+impressive
+英 [ɪmˈpresɪv]   美 [ɪmˈprɛsɪv]  
+adj.
+可观的;给人印象深刻的，感人的;引人注目的;显赫
+
+
+
+It is an impressive achievement 
+那是一项了不起的成就。
+
+
+legality of CCP’s governing
+中国共产党执政的合法性
+
+
+legality合法性; 墨守法规; 法律上的义务
+CCPChinese Communist Party 中国共产党; credit card purchase 信用卡购买; conto corrente postale (Italian=current postal account) 现行邮政账户
+governing统治( govern的现在分词); 控制，调节; 压制
+
+
+
+regarding
+英 [rɪˈgɑ:dɪŋ]   美 [rɪˈgɑ:rdɪŋ]  
+prep.
+关于;就…而论;至于
+v.
+regard的现在分词
+
+She has said nothing regarding your request.
+关于你的要求，她什么也没说。
+
+
+Call me if you have any problem regarding your work.
+如果你还有什么工作方面的问题就给我打电话。
+
+
+heavy coverage on 2016 U.S. election
+2016美国大选大量报道
+
+
+
+impact of legalization of marijuana in Canada
+大麻合法化在加拿大的影响
+
+
+Syria/middle east refugee problem in Europe
+
+叙利亚/中东难民问题在欧洲
+
+
+refugee
+英 [ˌrefjuˈdʒi:]   美 [ˌrɛfjʊˈdʒi]  
+n.
+避难者，难民
+
+
+They stay here a few hours before being sent to refugee camps, which are now almost full
+他们在这儿呆了几个小时后被送往难民营，而那里现在几乎已经满员了。
+
+They say they will stay to rebuild their homes rather than retreat to refugee camps 
+他们说他们将留下重建家园而不是躲到难民营里。
+
+Election of new British PM
+
+选举新的英国首相
+
+PM
+英 [ˌpi: ˈem]   美 [ˌpi:'em]  
+abbr.
+下午(Post Meridiem,等于afternoon);调相(Phase Modulation);
+(=prime minister)总理，首相;[化](=promethium)
+
+
+The PM presided over a meeting of his inner Cabinet 
+首相主持了一次核心内阁会议。
+
+
+
+
+snapshots
+n.（快照）照片( snapshot的名词复数 );简介，简要说明
+
+One autumn day I climbed to the top of the great wall and had a few snapshots taken.
+秋日登长城，留小影数帧。
+
+
+
+```
+
 prerequisite  先决条件，前提，必要条件
 ------------------------------
 ```
