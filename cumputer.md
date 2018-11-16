@@ -1,4 +1,30 @@
 
+kata  招式
+--------
+```
+kata /ˈkætə/
+
+英 ['kɑ:tɑ:]   美 ['kɑ:tɑ:]  
+n.
+<日>（空手道的）形（即套路，练习时必须按形进行），（柔道）招数的类型
+
+N an exercise consisting of a sequence of the specific movements of a martial art, used in training and designed to show skill in technique (武术的)套路
+
+
+coding katas 使用编码招式
+
+Part one introduced coding katas, part two combined them with behavior driven design. 
+第一部分介绍了编码招式，第二部分结合应用了行为驱动开发。
+
+
+
+After 30 or 40 years studying this form, naturally, the artist can go beyond the limits of the kata. 
+
+学习这种形式30至40年之后，艺术家自然而然地就能超越形的限制。
+
+```
+
+
 pact 公约;条约，公约
 ---------------
 ```
