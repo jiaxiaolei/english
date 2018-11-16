@@ -1,4 +1,169 @@
 
+pact 公约;条约，公约
+---------------
+```
+pact
+英 [pækt]   美 [pækt]  
+n.
+公约;条约，公约
+
+A non-aggression pact will be signed between the two countries. 
+两国将签署互不侵犯条约。
+
+
+
+aggression
+英 [əˈgreʃn]   美 [əˈɡrɛʃən]  
+n.
+侵略，侵略行为;攻击，进攻
+
+
+
+Aggression is by no means a male-only trait. 
+好斗性绝非男性才具有的特征。
+
+
+
+Every country has some areas where people are against the government.Incase of Pakistan it’s Baluchistan. Similarly, Chinese also have some parts in south and after Dalai Lama visiting India, the probabiliy of those parts getting away is quite pronounced.
+
+
+
+
+
+blunder
+英 [ˈblʌndə(r)]   美 [ˈblʌndɚ]  
+n.
+（因无知、粗心等造成）的错误;大错，失策，疏忽
+vi.
+犯错误;踉踉跄跄地走;无意中说出，漏嘴说出;弄糟，弄错，做错，办错
+
+
+What is the biggest blunder made by an Indian Prime minister ever?
+
+Our sword is just trash in comparison to that of our opponents
+
+与对手相比，我们的武器简直不堪一击。 
+
+
+
+the parents would dissuade their child from participating in the war.
+
+
+
+
+ I think Chinese war effort will implode from the inside even before there's a significant offense from the Indian side.
+
+
+
+
+ The glorious civilization of EU got severely ruined due to the wars. That’s why USA and USSR could dominate the world for half a century.
+
+
+
+Why are there so mamy people learning English all over the world these days? This is because everyone knows a simple truth: English cannot just change an individual’s life, but also can change a country’s fate.
+
+
+
+I'm hoping you Indians to liberate us from dictatorship. Good luck!
+
+
+
+
+
+diversity
+英 [daɪˈvɜ:səti]   美 [daɪˈvɜ:rsəti]  
+n.
+差异;多样化，（人在种族、民族、宗教等方面的）多样性;分歧
+
+
+Two of our greatest strengths are diversity and community. 
+我们最大的两个优势是多样性和团体精神。
+
+
+
+
+unimaginable
+英 [ˌʌnɪˈmædʒɪnəbl]   美 [ˌʌnɪˈmædʒɪnəbl]  
+adj.
+难以想象的，想不到的;不能想像
+
+
+The scale of the fighting is almost unimaginable 
+战斗的规模几乎无法想象。
+
+
+
+
+
+I have a Chinese friend who uses both Quora and Zhihu, but prefers the former to the later. Why? Because she's interested in a diversity of opinions, particular foreign ones. For her, Quora is more enlightening and exotic. 
+
+
+For me, the opposite is true. Being an American interested in China, Zhihu gives me a better window into the mind of Chinese people
+
+
+
+
+
+enlightening
+英 [ɪn'laɪtnɪŋ]   美 [ɪn'laɪtnɪŋ]  
+adj.
+有启发作用的，使人领悟的
+v.
+启发，开导( enlighten的现在分词 )
+
+
+exotic
+英 [ɪgˈzɒtɪk]   美 [ɪgˈzɑ:tɪk]  
+adj.
+异国的;外来的;异乎寻常的，奇异的;吸引人的
+n.
+舶来品，外来物;脱衣舞女
+
+
+copycat
+英 [ˈkɒpikæt]   美 [ˈkɑ:pikæt]  
+n.
+盲目模仿者
+
+The Beatles have copycats all over the world. 
+披头士乐队的模仿者遍布全世界。
+
+
+
+inactive
+英 [ɪnˈæktɪv]   美 [ɪnˈæktɪv]  
+adj.
+闲置的;不活动的，不活跃的;懒散的，怠惰的;[化]钝性的
+
+
+The satellite had been inactive since its launch two years ago. 
+该卫星自从两年前发射以来一直没起作用。
+《柯林斯高阶英汉双解学习词典》
+
+The volcano is inactive. 
+这座火山已进入休止状态。
+
+
+
+discontinued
+英 [ˌdɪskən'tɪnju:d]   美 [ˌdɪskən'tɪnjʊd]  
+v.
+（使）终止，中断，中止( discontinue的过去式和过去分词 )
+
+
+They have a huge selection of discontinued cookers. 
+他们有大量绝版的精选炉灶。
+
+We discontinued the project because of a lack of funds. 
+由于资金短缺，我们中止了这个项目。
+
+
+
+
+```
+
+
+
 academics  学习，学术;学者;大学教师；
 ------------------------------------
 ```
