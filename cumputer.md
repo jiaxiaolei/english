@@ -1,4 +1,105 @@
 
+vent   排气孔;通风孔;
+--------
+```
+vent
+英 [vent]   美 [vɛnt]  
+n.
+排气孔;通风孔;（感情等的）发泄，吐露;（鸟，虫，鱼的）肛门
+vt.& vi.
+表达，发泄（感情，尤指愤怒）;给…开孔;放出;（通过排泄等）减轻压力
+
+
+Quite a lot of steam escaped from the vent at the front of the machine 
+大量蒸汽从机器前部的排风口冒了出来。
+《柯林斯高阶英汉双解学习词典》
+
+She telephoned her best friend to vent her frustration 
+她给最要好的朋友打电话倾诉自己的沮丧。
+《柯林斯高阶英汉双解学习词典》
+
+She gave vent to her anger and jealousy. 
+她宣泄了自己的愤怒和嫉妒。
+
+Argh! Get water in my ears. 
+哎唷，水灌进耳朵里去了。
+
+
+
+
+
+frustration
+英 [frʌˈstreɪʃn]   美 [frʌˈstreʃən]  
+n.
+挫折;挫败;失意;失败
+
+
+
+
+frustration
+英 [frʌˈstreɪʃn]   美 [frʌˈstreʃən]  
+n.
+挫折;挫败;失意;失败
+
+
+
+Frustration, anger and desperation have led to a series of wildcat strikes. 
+挫败感、愤怒和绝望引起了一系列自发性的罢工。
+《柯林斯高阶英汉双解学习词典》
+
+His response is one of anger and frustration 
+他的回答充满了愤怒和懊丧。
+《柯林斯高阶英汉双解学习词典》
+
+He cried with anger and frustration 
+他愤怒而又沮丧得哭了起来。
+《柯林斯高阶英汉双解学习词典》
+
+
+Their frustration and anger will manifest itself in crying and screaming 
+他们用哭泣与尖叫表达自己的沮丧和愤怒。
+
+
+
+
+wildcat
+英 [ˈwaɪldkæt]   美 [ˈwaɪldˌkæt]  
+n.
+野猫;脾气暴躁的人
+adj.
+（商业上或财务上）鲁莽的，冒险的
+
+
+
+Frustration, anger and desperation have led to a series of wildcat strikes. 
+挫败感、愤怒和绝望引起了一系列自发性的罢工。
+《柯林斯高阶英汉双解学习词典》
+2
+It was a wildcat plan by some of our members. 
+这是我们的一些成员制订的一个冒险计划。
+
+
+
+
+
+
+semantic
+英 [sɪˈmæntɪk]   美 [sɪˈmæntɪk]  
+adj.
+<语>语义的，语义学的
+
+
+He did not want to enter into a semantic debate. 
+他不想就语义进行争辩。
+《柯林斯高阶英汉双解学习词典》
+
+Other semantic entanglements might be mentioned. 
+还可以举出一些语义上的其他混乱现象。
+
+
+```
+
+
 kata  招式
 --------
 ```
