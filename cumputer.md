@@ -1,4 +1,147 @@
 
+vegan  严格的素食主义者
+---------
+```
+vegan
+英 [ˈvi:gən]   美 [ˈviɡən, ˈvɛdʒən]  
+n.
+严格的素食主义者
+
+
+The menu changes weekly and usually includes a vegan option 
+菜单每周都有变化，通常包含可供严格的素食者选择的菜肴。
+《柯林斯高阶英汉双解学习词典》
+
+I'd been vegan for a long time. 
+我坚持严格吃素已很久了。
+《柯林斯高阶英汉双解学习词典》
+
+It's basically a vegan diet 
+从根本上来讲，这是严格的素食主义饮食。
+《柯林斯高阶英汉双解学习词典》
+以下例句来源于网络，仅供参考
+
+Will I continue my vegan diet and when will I stop? 
+我将继续我的纯素食的饮食和我何时会停止？
+danci.911cha.com
+
+This recipe and cooking method is great for vegan and those on a diet. 
+这种食物的烹饪方法很适合素食主义者和那些正在节食的人。
+
+
+Do you have any food preferences we can help accomodate?
+Vegan
+Vegetarian
+Gluten allergy
+Peanut allergy
+
+
+accomodate
+v.
+容纳，留宿，使…适应
+
+
+We will never accomodate ourselves to acts of aggression and intervention out of consideration for our relations with the power in question. 
+我们决不会因为考虑国家关系而对侵略和干涉行为姑息迁就。
+《汉英大词典》
+以下例句来源于网络，仅供参考
+
+The more specific you are, the more we can accomodate your needs. 
+更具体的你，我们就愈能容纳你的需要。
+danci.911cha.com
+
+Search filters are evaluated on a stack to accomodate nested AND/ OR clauses.
+搜索过滤器在堆栈上赋值以容纳嵌套的AND/OR子句。
+wiki.ubuntu.org.cn
+
+The attribute is multi-valued, to accomodate multiple configuration directives. 
+本属性是多值的，可以容纳多个配置指令。
+wiki.ubuntu.org.cn
+
+We hope in the near future we can receive and accomodate you with open arms.
+我们希望在不久的将来我们能够接受和适应你张开双臂。
+
+
+
+affiliations
+英 [əfɪl'ɪeɪʃnz]   美 [əfɪl'ɪeɪʃnz]  
+n.
+联系( affiliation的名词复数 );附属机构;亲和性;接纳
+
+
+They asked what her political affiliations were. 
+他们询问她属于哪个政党。
+《柯林斯高阶英汉双解学习词典》
+以下例句来源于网络，仅供参考
+
+Citizens of China may freely choose and express their religious beliefs, and make clear their religious affiliations. 
+中国公民可以自由地选择、表达自己的信仰和表明宗教身份。
+www.dictall.com
+
+We have been recruiting Mandarin-speaking agents and have launched affiliations with brokers in China. 
+我们一直在招会讲汉语的经纪人，还开始和中国的房产经纪公司建立关系。
+www.ftchinese.com
+
+Roles represent temporary affiliations that a type might have in a particular context.
+角色表示一种类型在一个特殊的上下文中可能拥有的临时从属关系。
+www.ibm.com
+
+If business or political affiliations influence their editorial choices, they should be disclosed. 
+如果企业或政治组织对新闻编辑决策施加影响，就应当予以披露。
+
+
+engineer
+英 [ˌendʒɪˈnɪə(r)]   美 [ˌendʒɪˈnɪr]  
+n.
+工程师，技师;（轮船的）机师;〈美〉（火车的）司机，;（陆军的）工兵
+vt.
+设计，策划;安排或处理;改变…的基因（或遗传）结构
+
+They send a service engineer to fix the disk drive. 
+他们派出维修人员来修磁盘驱动器。
+《柯林斯高阶英汉双解学习词典》
+
+He could stand no more and engineered an escape 
+他无法再忍受，便策划了出逃。
+
+
+tough
+英 [tʌf]   美 [tʌf]  
+adj.
+坚强的，坚韧的，不屈不挠的;艰苦的，困难的，难办的;牢固的，强壮的;粗暴的
+n.
+粗暴的人;暴徒，恶棍
+vt.
+<口>忍耐，忍受（常与out连用）
+adv.
+强硬地，顽强地;以强硬的态度
+
+She had a pretty tough childhood 
+她的童年非常不幸。
+《柯林斯高阶英汉双解学习词典》
+
+It was a very tough decision but we feel we made the right one 
+这是个困难的决定，但是我们认为我们做出了正确的选择。
+《柯林斯高阶英汉双解学习词典》
+
+He is known for taking a tough line on security 
+他因在安全问题上采取强硬路线而闻名。
+
+
+She is tough and ambitious. 
+她坚韧顽强，满怀抱负。
+
+
+It's been a tough day 
+这是难熬的一天。
+《柯林斯高阶英汉双解学习词典》
+
+He was having a really tough time at work. 
+他当时工作上困难重重。
+
+
+```
+
 vent   排气孔;通风孔;
 --------
 ```
