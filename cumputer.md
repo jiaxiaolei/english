@@ -1,4 +1,44 @@
 
+
+pet   宠物;宠儿;受宠的人;
+--------------
+```
+pet
+英 [pet]   美 [pɛt]  
+n.
+宠物;宠儿;受宠的人;生气
+adj.
+宠爱的，溺爱的;表示亲昵的
+vt.
+宠爱;爱抚，亲抚
+vi.
+<非正>亲吻;爱抚
+
+
+orphan
+英 [ˈɔ:fn]   美 [ˈɔ:rfn]  
+n.
+孤儿
+vt.
+使成为孤儿
+adj.
+孤儿的;无双亲的
+
+
+I'm an orphan and pretty much grew up on my own. 
+我是个孤儿，差不多是靠自己长大的。
+《柯林斯高阶英汉双解学习词典》
+
+Jones was orphaned at the age of ten, and taken in by next-door neighbours 
+琼斯10岁时成为孤儿，被隔壁的邻居收养。
+《柯林斯高阶英汉双解学习词典》
+
+By the end of the decade, some ten million children are expected to have been orphaned by the disease. 
+到这个10年结束时，大约1,000万儿童将会因为这种疾病而失去双亲。
+
+
+```
+
 vegan  严格的素食主义者
 ---------
 ```
