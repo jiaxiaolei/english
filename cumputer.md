@@ -1,5 +1,168 @@
 
 
+conveyancing  财产或其他权益让与的法律事务
+--------------------------------------
+```
+conveyancing
+英 [kənˈveɪənsɪŋ]   美 [kənˈveənsɪŋ]  
+n.
+财产或其他权益让与的法律事务
+
+
+She practised conveyancing and draftsmanship, I did litigation. 
+
+她从事产权转让和法律起草事务，我则从事诉讼。
+
+
+His main areas of interest are in conveyancing, probate and tax law. 
+
+他的主要研究兴趣是物业转易、遗产法及税法。
+
+
+Ownership of land usually confer ownership of everything above and below the land. the process of buy and selling land be 'conveyancing'. 
+
+土地所有权通常给予一切所有权（土地上的和土地下面的）。买场面土地的过程叫财产转让。
+
+
+Full range of legal services including those relating to shipping admiralty, international trade, insurance, arbitration litigation, banking finance, company law, employment law, conveyancing. 
+
+提供全方位的法律服务，服务领域涉及海事海商、国际贸易、保险、仲裁和诉讼、银行与金融、公司法和劳动雇佣事务、房地产交易等。
+
+
+Legal advisory and conveyancing office: laco is part of the lands department.
+
+法律谘询及田土转易处。
+
+
+
+
+
+gross
+英 [grəʊs]   美 [groʊs]  
+adj.
+总的;粗俗的;显而易见的;恶劣的
+n.
+总额
+vt.
+总共收入
+
+
+The company were guilty of gross negligence. 
+该公司犯有严重过失。
+《柯林斯高阶英汉双解学习词典》
+
+He abused the Admiral in the grossest terms 
+他用不堪入耳的话辱骂那位海军上将。
+
+National Savings gross sales in June totalled £ 709 million. 
+6月份国民储蓄机构的总销售额为7.09亿英镑。
+
+
+
+
+mortgage
+英 [ˈmɔ:gɪdʒ]   美 [ˈmɔ:rgɪdʒ]  
+n.
+抵押;抵押单据，抵押证明;抵押权，债权
+vt.
+抵押
+
+
+
+They had to mortgage their home to pay the bills. 
+
+他们不得不抵押房屋借贷来支付这些款项。
+
+《柯林斯高阶英汉双解学习词典》
+
+Thousands of its customers are in arrears with loans and mortgage payments 
+
+有数千客户拖欠其贷款和抵押贷款还款。
+
+《柯林斯高阶英汉双解学习词典》
+
+The bank foreclosed on the mortgage for his previous home. 
+
+银行取消了他先前住房的抵押赎回权。
+
+《柯林斯高阶英汉双解学习词典》
+
+I am a family man with a mortgage. 
+
+我是个有家室的男人，还有笔按揭款要偿付。
+
+《柯林斯高阶英汉双解学习词典》
+
+The bank refused to accept any mortgage on land. 
+
+银行拒绝接受任何土地抵押。
+
+
+
+deposit [dɪˈpɒzɪt]   美 [dɪˈpɑ:zɪt]  
+n.
+保证金;储蓄，存款;沉淀物;寄存，寄存品
+vt.&vi.
+储蓄;寄存;放置，安置;付保证金
+vi.
+沉淀
+
+
+It is common to ask for the equivalent of a month's rent as a deposit. 
+
+要求交一个月的房租作押金是很常见的。
+
+《柯林斯高阶英汉双解学习词典》
+
+The Tory candidate lost his deposit. 
+
+这名托利党候选人连竞选保证金都搭进去了。
+
+《柯林斯高阶英汉双解学习词典》
+
+After 10 minutes the surplus material is washed away and any remaining deposit examined with ultra violet light. 
+
+10分钟后剩余的物质被冲洗掉，任何残留的沉淀物则会用紫外线进行检测。
+
+《柯林斯高阶英汉双解学习词典》
+
+Someone was seen depositing a packet 
+
+有人看见一个人放下了件小包裹。
+
+《柯林斯高阶英汉双解学习词典》
+
+You are advised to deposit valuables in the hotel safe. 
+
+建议把贵重物品存放在宾馆的保险箱里。
+
+《柯林斯高阶英汉双解学习词典》
+
+
+
+stamp duty
+英 [stæmp ˈdju:ti]   美 [stæmp ˈduti]  
+n.
+印花税
+
+
+
+Firstly, I set an overview of the history of our country and stamp duty on the International Comparison. 
+
+首先，概述了我国印花税的历史并进行国际比较。
+
+
+Examples of direct taxes are income tax and stamp duty. 
+
+直接税的典型例子是所得税和印花税。
+
+
+
+
+
+```
+
+
 pet   宠物;宠儿;受宠的人;
 --------------
 ```
