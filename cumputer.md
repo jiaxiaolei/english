@@ -1,4 +1,12 @@
 
+继续 take on
+------------
+```
+如果继续下去将会有很大风险。
+It would be extremely risky to take them on. 
+```
+
+
 sunset
 ----------
 ```
