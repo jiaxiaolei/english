@@ -1,4 +1,16 @@
 
+
+on track 
+走上正轨
+---------
+一般在描述任务的时候使用。
+相对的有：
+G on track
+Y issue/Risk
+R pending
+
+
+
 继续 take on
 ------------
 ```
