@@ -1,3 +1,13 @@
+the goal
+---------------
+
+1. Reduce cirtical incidents;
+
+2. Enhance system robustness continuously;
+
+3. Improve the automation of the daily work;
+
+
 
 
 on track 
