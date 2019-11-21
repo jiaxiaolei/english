@@ -8,6 +8,24 @@ the goal
 3. Improve the automation of the daily work;
 
 
+universe  宇宙
+-------
+```
+universe 
+ 英  [ˈjuːnɪvɜːs]  美  [ˈjuːnɪvɜːrs]
+n. 宇宙；世界；领域
+```
+
+cosmos  宇宙
+----------
+```
+cosmos 
+ 英  [ˈkɒzmɒs]   美  [ˈkɑːzmoʊs,ˈkɑːzməs]
+n. 宇宙；和谐；秩序；大波斯菊
+n. (Cosmos)人名；(法)科斯莫斯
+
+```
+
 
 
 on track 
