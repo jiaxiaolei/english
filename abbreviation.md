@@ -1,3 +1,15 @@
+
+
+```
+
+VPN  Virtual Private Network  虚拟专用网络
+VPS Virtual Private Server
+VPC Virtual Private Cloud
+
+
+
+```
+
 CLI command-line interface，命令行界面
 -------
 ```
