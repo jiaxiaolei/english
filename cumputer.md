@@ -1,3 +1,20 @@
+
+prototype 
+---
+```
+prototype 
+ 英  [ˈprəʊtətaɪp]  美  [ˈproʊtətaɪp]
+n. 原型；样本；标准，模范；全真模型；[电]原型滤波网络
+vt. 制作原型
+
+
+Chris Retzler has built a prototype of a machine called the wave rotor.
+克里斯·雷兹勒做出了一台叫做波转子的样机。
+ 
+We broke up into groups, and each group designed its own toy and made an alpha prototype.
+我们分成几个小组，每个小组都设计了自己的玩具并制作了一个 alpha 原型。
+```
+
 the goal
 ---------------
 
