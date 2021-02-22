@@ -1,3 +1,11 @@
+ignite
+-----
+```
+ignite [iɡ'nait]
+
+vt. 点燃；使燃烧；使激动
+vi. 点火；燃烧
+```
 
 portal
 --------
