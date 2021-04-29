@@ -1,5 +1,31 @@
 
+mandarin
+------
+```
+mandarin
+英 [ˈmændərɪn]   美 [ˈmændərɪn]  
+n.
+(中文)普通话
+政界要员;(尤指)内务官员;(旧时)中国政府高级官吏;
+```
 
+
+Cantonese 
+------
+```
+英  [ˌkæntəˈniːz]  美  [ˌkæntəˈniːz]
+
+His family's Cantonese nickname for him translates as Never Sits Still. 
+
+家人为他起的广东话绰号意思是Never Sits Still（从来坐不住）。
+
+《柯林斯高阶英汉双解学习词典》
+
+His father was an actor in the Cantonese Opera Company 
+
+他的父亲是粤剧团的演员。
+
+```
 
 ignite
 -----
