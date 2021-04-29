@@ -1,3 +1,6 @@
+
+
+
 ignite
 -----
 ```
@@ -148,8 +151,18 @@ extreme workflow composer
 
 ```
 
+decommission
+----
+```
+decommission
+英 [ˌdiːkəˈmɪʃn]   美 [ˌdiːkəˈmɪʃn]  
+v.
+正式停止使用(武器、核电站等)
 
 
+服务器下线...
+
+```
 
 slack    松弛
 ----------
