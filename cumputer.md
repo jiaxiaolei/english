@@ -1,3 +1,33 @@
+
+shard
+--------
+```
+shard  切片
+英 [ʃɑːd]   美 [ʃɑːrd]  
+n.
+(玻璃、金属等的)碎片
+
+
+Before you shard, make sure your application's size and growth merit it. 
+在进行切分之前，一定要确定应用程序的规模和增长对其有利。
+```
+
+
+replica 
+------
+```
+replica  副本
+英 [ˈreplɪkə]   美 [ˈreplɪkə]  
+n.
+复制品;仿制品
+
+
+The weapon used in the raid was a replica. 
+抢劫案中使用的武器是一件仿制品。
+```
+
+
+
 bully
 ------
 ```
