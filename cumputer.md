@@ -1,3 +1,46 @@
+bully
+------
+```
+bully
+英 [ˈbʊli]   美 [ˈbʊli]  
+vt.
+恐吓;伤害;胁迫
+n.
+仗势欺人者;横行霸道者
+int.
+好;妙
+
+
+
+It's about time teachers started to get tough with bullies. 
+
+现在教师该对横行霸道的学生开始采取严厉措施了。
+
+《牛津高阶英汉双解词典》
+
+
+Bullying is a problem in many schools. 
+
+很多学校都出现学生仗势作恶的问题。
+
+《牛津高阶英汉双解词典》
+
+
+He's got a job in New York? Well, bully for him! 
+
+他在纽约找到了份工作？哼，那没什么了不起！
+
+《牛津高阶英汉双解词典》
+
+'He's a bully!' the little boy burst out. 
+
+“他仗势欺人！”小男孩突然大叫。
+
+
+
+```
+
+
 long johns
 保暖长内裤
 ----------
